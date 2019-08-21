@@ -1,0 +1,2120 @@
+{
+  "javascript" : {
+    "author" : "God",
+    "competencies" : {
+      "backend" : {
+        "icon" : "assets/img/icons/competencies/Icon31.svg",
+        "name" : "Backend"
+      }
+    },
+    "description" : "letsgo",
+    "difficulty" : 2,
+    "duration" : "5.8hrs",
+    "global" : true,
+    "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/ESKAOU727F.png",
+    "instructors" : [ "k5ztL93Ifab33r803CiIFcQi3s93" ],
+    "modules" : {
+      "m1" : {
+        "courseId" : 416,
+        "description" : "Intro & Setup",
+        "id" : 697,
+        "index" : "1",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "courseId" : "javascript",
+            "description" : "Tutorial on how to build a Shopping Cart using NodeJS with Express and MongoDB.",
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "id" : 2704,
+            "index" : 1,
+            "moduleId" : 697,
+            "name" : "Intro & Setup",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "route" : "courses.javascript.modules.m1.lessons.l1",
+            "saved" : true,
+            "targetType" : "lesson",
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Academind",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAwlysNtd-A8gtL5fyvmEZuWIIXSfyTBBZ7sIQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "-3vvxn78MH4",
+              "duration" : 840,
+              "id" : 1700,
+              "name" : "NodeJS / Express / MongoDB - Build a Shopping Cart - #1 Intro & Setup",
+              "thumbnail" : "https://i.ytimg.com/vi/-3vvxn78MH4/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "Product Index View",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Academind",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAwlysNtd-A8gtL5fyvmEZuWIIXSfyTBBZ7sIQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "riSKBb7KbFI",
+              "duration" : 1177,
+              "id" : 1703,
+              "name" : "NodeJS / Express / MongoDB - Build a Shopping Cart - #2 Product Index View",
+              "thumbnail" : "https://i.ytimg.com/vi/riSKBb7KbFI/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "name" : "MongoDB / Mongoose Setup",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Academind",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAwlysNtd-A8gtL5fyvmEZuWIIXSfyTBBZ7sIQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "arkYCiCP6-g",
+              "duration" : 297,
+              "id" : 1702,
+              "name" : "NodeJS / Express / MongoDB - Build a Shopping Cart - #3 MongoDB / Mongoose Setup",
+              "thumbnail" : "https://i.ytimg.com/vi/arkYCiCP6-g/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "lectureBlob" : "Nueva lección de prueba",
+            "lectureType" : "L",
+            "minute" : 1,
+            "name" : "Nueva lección",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 1,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l5" : {
+            "buttonHidden" : true,
+            "description" : "<p>Description pro</p>",
+            "evaluationLimit" : 3,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 5,
+            "instruction" : "<p>Step</p><p>1</p><p>2</p><p>3</p>",
+            "minute" : 15,
+            "name" : "Test 1",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questionToAttempt" : 2,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 921,
+              "index" : 1,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 921,
+                "explain" : "AH",
+                "id" : 2722,
+                "option" : "A"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 921,
+                "explain" : "",
+                "id" : 2723,
+                "option" : "B"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 921,
+                "explain" : "",
+                "id" : 2724,
+                "option" : "C"
+              } ],
+              "questionBlob" : "Otra más",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 917,
+              "index" : 2,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : false,
+                "evaluationQuestionId" : 917,
+                "explain" : "",
+                "id" : 2718,
+                "option" : "Yeah"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 917,
+                "explain" : "",
+                "id" : 2716,
+                "option" : "Yes"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 917,
+                "explain" : "wohooo",
+                "id" : 2717,
+                "option" : "Yeap"
+              } ],
+              "questionBlob" : "¿Si?",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 919,
+              "index" : 3,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 919,
+                "explain" : "",
+                "id" : 2714,
+                "option" : "Now"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 919,
+                "explain" : "",
+                "id" : 2715,
+                "option" : "Nop"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 919,
+                "explain" : "",
+                "id" : 2713,
+                "option" : "Nelson"
+              } ],
+              "questionBlob" : "¿No?",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 920,
+              "index" : 4,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 920,
+                "explain" : "",
+                "id" : 2720,
+                "option" : "V"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 920,
+                "explain" : "",
+                "id" : 2721,
+                "option" : "C"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 920,
+                "explain" : "",
+                "id" : 2719,
+                "option" : "A"
+              } ],
+              "questionBlob" : "Otra",
+              "questionType" : "OM",
+              "right" : true
+            } ],
+            "randomly" : true,
+            "saved" : true,
+            "time" : 15,
+            "type" : "E",
+            "typeAdded" : true,
+            "videoUploaded" : true,
+            "weighing" : false
+          },
+          "l6" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 6,
+            "lectureBlob" : "<p style=\"text-align: center;\"><b style=\"color: rgb(79, 129, 189); font-size: large;\">Hello world</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(79, 129, 189); font-size: large;\"><br></b></p>",
+            "lectureType" : "L",
+            "name" : "Lectura 1",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l7" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 10,
+            "lectureBlob" : "<p style=\"text-align: center;\"><b style=\"color: rgb(149, 55, 52); font-size: x-large;\">Center</b></p>",
+            "lectureType" : "L",
+            "name" : "ASD",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l8" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 11,
+            "lectureBlob" : "<span style=\"font-size: x-large;\">Left</span>",
+            "lectureType" : "L",
+            "name" : "Otra  más",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          }
+        },
+        "name" : "First steps",
+        "showLeccion" : true
+      },
+      "m2" : {
+        "courseId" : 416,
+        "description" : "DESC",
+        "index" : "2",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "lectureBlob" : "<p style=\"text-align: center;\"><span style=\"font-size: x-large;\"><b>Holi amigui</b></span></p>",
+            "lectureType" : "L",
+            "name" : "Número uno",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "description" : "as djakjsd haksjd akjsd hsakd",
+            "documents" : [ {
+              "documentCode" : "BSO9QJ9N",
+              "id" : 2239,
+              "lessonId" : 2728,
+              "link" : "https://s3-us-west-2.amazonaws.com/ulernit/images/BSO9QJ9N.pdf",
+              "name" : "Documento B",
+              "size" : "2mb",
+              "type" : ".pdf"
+            } ],
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "XYZ",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "FalconMasters",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAxa1-gQD3w8zc_OTufJ_6dTDc0y--Wfc1gsJw=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "UQtZVQlF-0s",
+              "duration" : 664,
+              "id" : 1706,
+              "name" : "Curso de ES6 5.- Funciones de Tipo Flecha",
+              "thumbnail" : "https://i.ytimg.com/vi/UQtZVQlF-0s/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "name" : "Número dos",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "303143581",
+              "id" : 1704,
+              "name" : "foto.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "description" : "<p>asd asd</p>",
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "name" : "ABC",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 308,
+              "index" : 1,
+              "lessonId" : 2732,
+              "options" : [ {
+                "id" : 1041,
+                "index" : 2,
+                "option" : "O",
+                "surveyQuestionId" : 308
+              }, {
+                "id" : 1042,
+                "index" : 3,
+                "option" : "L",
+                "surveyQuestionId" : 308
+              }, {
+                "id" : 1043,
+                "index" : 4,
+                "option" : "A",
+                "surveyQuestionId" : 308
+              }, {
+                "id" : 1040,
+                "index" : 1,
+                "option" : "H",
+                "surveyQuestionId" : 308
+              } ],
+              "questionBlob" : "Hola"
+            }, {
+              "hasOptions" : true,
+              "id" : 309,
+              "index" : 2,
+              "lessonId" : 2732,
+              "options" : [ {
+                "id" : 1044,
+                "index" : 5,
+                "option" : "b",
+                "surveyQuestionId" : 309
+              }, {
+                "id" : 1045,
+                "index" : 6,
+                "option" : "y",
+                "surveyQuestionId" : 309
+              }, {
+                "id" : 1046,
+                "index" : 7,
+                "option" : "e",
+                "surveyQuestionId" : 309
+              } ],
+              "questionBlob" : "Bye"
+            } ],
+            "saved" : true,
+            "type" : "S",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l5" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 5,
+            "name" : "ASD",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "303144062",
+              "id" : 1709,
+              "name" : "foto.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          }
+        },
+        "name" : "Pruebas X",
+        "showLeccion" : true
+      },
+      "m3" : {
+        "courseId" : 416,
+        "description" : "A",
+        "index" : "3",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "lectureBlob" : "<p style=\"text-align: center;\">A</p>",
+            "lectureType" : "L",
+            "name" : "A",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "lectureBlob" : "B",
+            "lectureType" : "L",
+            "name" : "B",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "name" : "C",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Matt D'Avella",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAzGI404Awl8EscufE2VaZPi3yk3K_SRrr0DFA=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "FQQPuQtIg4o",
+              "duration" : 3944,
+              "id" : 1733,
+              "name" : "The Impostor Syndrome // Ground Up 089",
+              "thumbnail" : "https://i.ytimg.com/vi/FQQPuQtIg4o/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "name" : "vi",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Gunner",
+              "channel" : "https://i.vimeocdn.com/portrait/26583704_300x300",
+              "code" : "279917244",
+              "duration" : 15,
+              "id" : 1752,
+              "name" : "Lyft Legend",
+              "thumbnail" : "https://i.vimeocdn.com/video/713258240_640.jpg",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          }
+        },
+        "name" : "M",
+        "showLeccion" : true
+      },
+      "m4" : {
+        "courseId" : 416,
+        "description" : ".",
+        "id" : 730,
+        "index" : "4",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "name" : "A",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Caler Edwards",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAxrhPRVS1IWZWRKexOwlzwQX0kFCb97uDXaDw=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "VisaLaF7GWU",
+              "duration" : 1259,
+              "id" : 1753,
+              "name" : "Adobe XD Auto Animate App Design - Tutorial",
+              "thumbnail" : "https://i.ytimg.com/vi/VisaLaF7GWU/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "B",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "303341389",
+              "id" : 1754,
+              "name" : "ReactJS Basics - 1 What is React.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "lectureBlob" : "<p style=\"text-align: center;\"><b><i style=\"color: rgb(31, 73, 125); font-size: x-large;\">Center</i></b></p>",
+            "lectureType" : "L",
+            "name" : "C",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "lectureBlob" : "Nueva lección de prueba",
+            "lectureType" : "L",
+            "name" : "Nueva lección",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          }
+        },
+        "name" : "git status",
+        "showLeccion" : true
+      }
+    },
+    "name" : "JavaScript",
+    "objectives" : [ "Random 1", "Random 2", "Random 3" ],
+    "requirements" : [ "Random 1", "Random 2", "Random 3" ],
+    "skills" : [ "Random 1", "Random 2", "Random 3" ],
+    "students" : {
+      "Ma4YtwN3tKdFnf0jgW0cpvZzAi43" : {
+        "firstName" : "David",
+        "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+        "lastName" : "Giovanny",
+        "rating" : {
+          "date" : "2019-04-30",
+          "description" : "Me encanta el curso",
+          "points" : 5,
+          "title" : "Perfecto!"
+        }
+      },
+      "k5ztL93Ifab33r803CiIFcQi3s93" : {
+        "firstName" : "Gerardo",
+        "imageUrl" : "",
+        "lastName" : "Manllo Puente",
+        "rating" : 5
+      }
+    },
+    "type" : "Online"
+  },
+  "nodejs" : {
+    "author" : "Siddharta",
+    "competencies" : {
+      "backend" : {
+        "icon" : "assets/img/icons/competencies/Icon31.svg",
+        "name" : "Backend"
+      },
+      "coding" : {
+        "icon" : "assets/img/icons/competencies/Icon21.svg",
+        "name" : "Coding"
+      }
+    },
+    "description" : "Veniam ad accusamus sit non temporibus similique. Placeat et officiis labore consequatur voluptatem. Nam perferendis recusandae aliquam ipsum voluptatem in esse officia. Impedit facere perspiciatis cupiditate sint eius vero excepturi libero. Sit assumenda nesciunt voluptas quia est consequatur.  Minima consequatur magnam suscipit commodi suscipit. Quod eos ut reprehenderit. Reprehenderit atque minima consequatur in et ut voluptatibus blanditiis. Ut eum itaque dolores eligendi aut omnis.",
+    "difficulty" : 2,
+    "duration" : "12.5hrs",
+    "global" : false,
+    "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/4CA2CJS716.png",
+    "instructors" : [ "Ma4YtwN3tKdFnf0jgW0cpvZzAi43", "k5ztL93Ifab33r803CiIFcQi3s93" ],
+    "modules" : {
+      "m1" : {
+        "courseId" : 416,
+        "description" : "Intro & Setup",
+        "id" : 697,
+        "index" : "1",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "description" : "Tutorial on how to build a Shopping Cart using NodeJS with Express and MongoDB.",
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "id" : 2704,
+            "index" : 1,
+            "moduleId" : 697,
+            "name" : "Intro & Setup",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Academind",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAwlysNtd-A8gtL5fyvmEZuWIIXSfyTBBZ7sIQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "-3vvxn78MH4",
+              "duration" : 840,
+              "id" : 1700,
+              "name" : "NodeJS / Express / MongoDB - Build a Shopping Cart - #1 Intro & Setup",
+              "thumbnail" : "https://i.ytimg.com/vi/-3vvxn78MH4/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "Product Index View",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Academind",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAwlysNtd-A8gtL5fyvmEZuWIIXSfyTBBZ7sIQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "riSKBb7KbFI",
+              "duration" : 1177,
+              "id" : 1703,
+              "name" : "NodeJS / Express / MongoDB - Build a Shopping Cart - #2 Product Index View",
+              "thumbnail" : "https://i.ytimg.com/vi/riSKBb7KbFI/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "name" : "MongoDB / Mongoose Setup",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Academind",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAwlysNtd-A8gtL5fyvmEZuWIIXSfyTBBZ7sIQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "arkYCiCP6-g",
+              "duration" : 297,
+              "id" : 1702,
+              "name" : "NodeJS / Express / MongoDB - Build a Shopping Cart - #3 MongoDB / Mongoose Setup",
+              "thumbnail" : "https://i.ytimg.com/vi/arkYCiCP6-g/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "lectureBlob" : "Nueva lección de prueba",
+            "lectureType" : "L",
+            "minute" : 1,
+            "name" : "Nueva lección",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 1,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l5" : {
+            "buttonHidden" : true,
+            "description" : "<p>Description pro</p>",
+            "evaluationLimit" : 3,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 5,
+            "instruction" : "<p>Step</p><p>1</p><p>2</p><p>3</p>",
+            "minute" : 15,
+            "name" : "Test 1",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questionToAttempt" : 2,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 921,
+              "index" : 1,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 921,
+                "explain" : "AH",
+                "id" : 2722,
+                "option" : "A"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 921,
+                "explain" : "",
+                "id" : 2723,
+                "option" : "B"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 921,
+                "explain" : "",
+                "id" : 2724,
+                "option" : "C"
+              } ],
+              "questionBlob" : "Otra más",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 917,
+              "index" : 2,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : false,
+                "evaluationQuestionId" : 917,
+                "explain" : "",
+                "id" : 2718,
+                "option" : "Yeah"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 917,
+                "explain" : "",
+                "id" : 2716,
+                "option" : "Yes"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 917,
+                "explain" : "wohooo",
+                "id" : 2717,
+                "option" : "Yeap"
+              } ],
+              "questionBlob" : "¿Si?",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 919,
+              "index" : 3,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 919,
+                "explain" : "",
+                "id" : 2714,
+                "option" : "Now"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 919,
+                "explain" : "",
+                "id" : 2715,
+                "option" : "Nop"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 919,
+                "explain" : "",
+                "id" : 2713,
+                "option" : "Nelson"
+              } ],
+              "questionBlob" : "¿No?",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 920,
+              "index" : 4,
+              "lessonId" : 2717,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 920,
+                "explain" : "",
+                "id" : 2720,
+                "option" : "V"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 920,
+                "explain" : "",
+                "id" : 2721,
+                "option" : "C"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 920,
+                "explain" : "",
+                "id" : 2719,
+                "option" : "A"
+              } ],
+              "questionBlob" : "Otra",
+              "questionType" : "OM",
+              "right" : true
+            } ],
+            "randomly" : true,
+            "saved" : true,
+            "time" : 15,
+            "type" : "E",
+            "typeAdded" : true,
+            "videoUploaded" : true,
+            "weighing" : false
+          },
+          "l6" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 6,
+            "lectureBlob" : "<p style=\"text-align: center;\"><b style=\"color: rgb(79, 129, 189); font-size: large;\">Hello world</b></p><p style=\"text-align: center;\"><b style=\"color: rgb(79, 129, 189); font-size: large;\"><br></b></p>",
+            "lectureType" : "L",
+            "name" : "Lectura 1",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l7" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 10,
+            "lectureBlob" : "<p style=\"text-align: center;\"><b style=\"color: rgb(149, 55, 52); font-size: x-large;\">Center</b></p>",
+            "lectureType" : "L",
+            "name" : "ASD",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l8" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 11,
+            "lectureBlob" : "<span style=\"font-size: x-large;\">Left</span>",
+            "lectureType" : "L",
+            "name" : "Otra  más",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          }
+        },
+        "name" : "First steps",
+        "showLeccion" : true
+      },
+      "m2" : {
+        "courseId" : 416,
+        "description" : "DESC",
+        "index" : "2",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "courseId" : "nodejs",
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "lectureBlob" : "<p style=\"text-align: center;\"><span style=\"font-size: x-large;\"><b>Holi amigui</b></span></p>",
+            "lectureType" : "L",
+            "name" : "Número uno",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "route" : "courses[nodejs].modules[m2].lessons[l1]",
+            "saved" : true,
+            "targetType" : "lesson",
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "courseId" : "nodejs",
+            "description" : "as djakjsd haksjd akjsd hsakd",
+            "documents" : [ {
+              "documentCode" : "BSO9QJ9N",
+              "id" : 2239,
+              "lessonId" : 2728,
+              "link" : "https://s3-us-west-2.amazonaws.com/ulernit/images/BSO9QJ9N.pdf",
+              "name" : "Documento B",
+              "size" : "2mb",
+              "type" : ".pdf"
+            } ],
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "XYZ",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "FalconMasters",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAxa1-gQD3w8zc_OTufJ_6dTDc0y--Wfc1gsJw=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "UQtZVQlF-0s",
+              "duration" : 664,
+              "id" : 1706,
+              "name" : "Curso de ES6 5.- Funciones de Tipo Flecha",
+              "thumbnail" : "https://i.ytimg.com/vi/UQtZVQlF-0s/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "name" : "Número dos",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "303143581",
+              "id" : 1704,
+              "name" : "foto.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "description" : "<p>asd asd</p>",
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "name" : "ABC",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 308,
+              "index" : 1,
+              "lessonId" : 2732,
+              "options" : [ {
+                "id" : 1041,
+                "index" : 2,
+                "option" : "O",
+                "surveyQuestionId" : 308
+              }, {
+                "id" : 1042,
+                "index" : 3,
+                "option" : "L",
+                "surveyQuestionId" : 308
+              }, {
+                "id" : 1043,
+                "index" : 4,
+                "option" : "A",
+                "surveyQuestionId" : 308
+              }, {
+                "id" : 1040,
+                "index" : 1,
+                "option" : "H",
+                "surveyQuestionId" : 308
+              } ],
+              "questionBlob" : "Hola"
+            }, {
+              "hasOptions" : true,
+              "id" : 309,
+              "index" : 2,
+              "lessonId" : 2732,
+              "options" : [ {
+                "id" : 1044,
+                "index" : 5,
+                "option" : "b",
+                "surveyQuestionId" : 309
+              }, {
+                "id" : 1045,
+                "index" : 6,
+                "option" : "y",
+                "surveyQuestionId" : 309
+              }, {
+                "id" : 1046,
+                "index" : 7,
+                "option" : "e",
+                "surveyQuestionId" : 309
+              } ],
+              "questionBlob" : "Bye"
+            } ],
+            "saved" : true,
+            "type" : "S",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l5" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 5,
+            "name" : "ASD",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "303144062",
+              "id" : 1709,
+              "name" : "foto.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          }
+        },
+        "name" : "Pruebas X",
+        "showLeccion" : true
+      },
+      "m3" : {
+        "courseId" : 416,
+        "description" : "A",
+        "index" : "3",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "lectureBlob" : "<p style=\"text-align: center;\">A</p>",
+            "lectureType" : "L",
+            "name" : "A",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "lectureBlob" : "B",
+            "lectureType" : "L",
+            "name" : "B",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "name" : "C",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Matt D'Avella",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAzGI404Awl8EscufE2VaZPi3yk3K_SRrr0DFA=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "FQQPuQtIg4o",
+              "duration" : 3944,
+              "id" : 1733,
+              "name" : "The Impostor Syndrome // Ground Up 089",
+              "thumbnail" : "https://i.ytimg.com/vi/FQQPuQtIg4o/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "name" : "vi",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Gunner",
+              "channel" : "https://i.vimeocdn.com/portrait/26583704_300x300",
+              "code" : "279917244",
+              "duration" : 15,
+              "id" : 1752,
+              "name" : "Lyft Legend",
+              "thumbnail" : "https://i.vimeocdn.com/video/713258240_640.jpg",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          }
+        },
+        "name" : "M",
+        "showLeccion" : true
+      },
+      "m4" : {
+        "courseId" : 416,
+        "description" : ".",
+        "id" : 730,
+        "index" : "4",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "name" : "A",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Caler Edwards",
+              "channel" : "https://yt3.ggpht.com/a-/AN66SAxrhPRVS1IWZWRKexOwlzwQX0kFCb97uDXaDw=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "VisaLaF7GWU",
+              "duration" : 1259,
+              "id" : 1753,
+              "name" : "Adobe XD Auto Animate App Design - Tutorial",
+              "thumbnail" : "https://i.ytimg.com/vi/VisaLaF7GWU/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "B",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "303341389",
+              "id" : 1754,
+              "name" : "ReactJS Basics - 1 What is React.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "lectureBlob" : "<p style=\"text-align: center;\"><b><i style=\"color: rgb(31, 73, 125); font-size: x-large;\">Center</i></b></p>",
+            "lectureType" : "L",
+            "name" : "C",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "lectureBlob" : "Nueva lección de prueba",
+            "lectureType" : "L",
+            "name" : "Nueva lección",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          }
+        },
+        "name" : "git status",
+        "showLeccion" : true
+      }
+    },
+    "name" : "Node.js",
+    "objectives" : [ "Test", "Test2" ],
+    "requirements" : [ "Programar", "5 años experiencia", "Ser bien cabron" ],
+    "skills" : [ "Skill 1", "Skill 2", "Skill 3", "Skill 4", "Skill 5", "Skill 6" ],
+    "students" : {
+      "Ma4YtwN3tKdFnf0jgW0cpvZzAi43" : {
+        "firstName" : "David",
+        "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+        "lastName" : "Giovanny",
+        "rating" : {
+          "date" : "2019-01-25",
+          "description" : "Me encanta este curso",
+          "points" : 5,
+          "title" : "Muy bien"
+        }
+      },
+      "SvDrYj14bXYTZrBSjInAb5cVlzh1" : {
+        "firstName" : "David Giovanny",
+        "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+        "lastName" : "Gil Ibarra",
+        "rating" : 4
+      },
+      "k5ztL93Ifab33r803CiIFcQi3s93" : {
+        "name" : "'Marco'"
+      }
+    },
+    "type" : "Degree"
+  },
+  "todologia" : {
+    "author" : "Aristotle",
+    "competencies" : {
+      "webdesing" : {
+        "icon" : "assets/img/icons/competencies/Icon23.svg",
+        "name" : "Diseño WEB"
+      }
+    },
+    "description" : "hi dad",
+    "duration" : "12hrs",
+    "global" : true,
+    "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/IO5MRQATLY.png",
+    "instructors" : [ "Ma4YtwN3tKdFnf0jgW0cpvZzAi43" ],
+    "modules" : {
+      "m1" : {
+        "description" : "Módulo uno",
+        "endDate" : "2019-03-26T07:00:00.000Z",
+        "index" : "1",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "documents" : [ {
+              "documentCode" : "330JGJX5",
+              "id" : 2253,
+              "lessonId" : 4317,
+              "link" : "https://s3-us-west-2.amazonaws.com/ulernit/images/330JGJX5.pdf",
+              "name" : "Documento B",
+              "size" : "2mb",
+              "type" : ".pdf"
+            } ],
+            "hour" : 6,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "lectureBlob" : "<div class=\"lectureBlob\" style=\"width: 100%; text-align: justify;\">\n  <h1 style=\"margin-bottom: 5px !important;\">A guide to hosting static websites using NGINX</h1>\n  <h3 style=\"opacity: .6; font-size: 20px !important; margin-bottom: 25px !important\">Learn how to host a static website using a VM and NGINX!</h3>\n  <div><div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><figure id=\"b99c\" class=\"graf graf--figure graf--leading\"><img class=\"progressiveMedia-noscript js-progressiveMedia-inner\" src=\"https://cdn-images-1.medium.com/max/1600/1*m_EbWDxUUjvHMesln9MzkA.jpeg\"></figure><div class=\"uiScale uiScale-ui--regular uiScale-caption--regular u-flexCenter u-marginVertical24 u-fontSize15 js-postMetaLockup\"><div class=\"u-flex0\"><a class=\"link u-baseColor--link avatar\" href=\"https://medium.com/@jgefroh?source=post_header_lockup\"><img src=\"https://cdn-images-1.medium.com/fit/c/100/100/1*Uxn7D3jALNZyU4teQv5gUg.jpeg\" class=\"avatar-image u-size50x50\" alt=\"Go to the profile of Joseph Gefroh\"></a></div><div class=\"u-flex1 u-paddingLeft15 u-overflowHidden\"></div></div><p id=\"df54\" class=\"graf graf--p graf-after--h4\"><a href=\"https://www.nginx.com/\" class=\"markup--anchor markup--p-anchor\">NGINX</a> is a very powerful web server. You can do a ton of things with it, such as setting up reverse proxies or load balancing. It can also be used to host your static website.</p><p id=\"560b\" class=\"graf graf--p graf-after--p graf--trailing\">Now, keep in mind that there are many options when it comes to hosting static websites nowdays&#x200A;&#x2014;&#x200A;Github pages, any number of hosting providers, Amazon S3 or Cloudfront, Cloudflare, etc. This is just one option among many.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"b569\" class=\"graf graf--p graf--leading graf--trailing\">Like this article? Add me on <a href=\"https://www.linkedin.com/in/jgefroh/\" class=\"markup--anchor markup--p-anchor\">LinkedIn</a>!</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"8547\" class=\"graf graf--p graf--leading\"><strong class=\"markup--strong markup--p-strong\">This guide assumes some things:</strong></p><ul class=\"postList\"><li id=\"8e4e\" class=\"graf graf--li graf-after--p\">You&#x2019;re <a href=\"https://medium.com/@jgefroh/a-beginners-guide-to-linux-command-line-56a8004e2471\" class=\"markup--anchor markup--li-anchor\">comfortable using Linux</a>.</li><li id=\"98e2\" class=\"graf graf--li graf-after--li\">You&#x2019;re trying to host a basic static website on a VM.</li><li id=\"46c9\" class=\"graf graf--li graf-after--li graf--trailing\">You don&#x2019;t know how to use NGINX.</li></ul></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"e9a0\" class=\"graf graf--p graf-after--h3\">You&#x2019;ll need shell access to follow this guide. I recommend a $5/month droplet from <a href=\"https://www.digitalocean.com/\" class=\"markup--anchor markup--p-anchor\">DigitalOcean</a>, but it doesn&#x2019;t really matter where it is.</p><p id=\"f5ae\" class=\"graf graf--p graf-after--h3\">Your domain name needs to point to your new server. Create an A record in your hosting provider&#x2019;s DNS settings, pointing your domain name (eg. <code class=\"markup--code markup--p-code\">jgefroh.com</code>) to the server IP address (eg. <code class=\"markup--code markup--p-code\">127.0.0.1</code>). If you don&#x2019;t want to wait for the DNS to propagate, edit your <code class=\"markup--code markup--p-code\">/etc/hosts</code> file to point your domain to the right IP address.</p><p id=\"c677\" class=\"graf graf--p graf-after--p\">For the purposes of this guide, we&#x2019;ll use the domain name <code class=\"markup--code markup--p-code\">jgefroh.com</code> and the IP address <code class=\"markup--code markup--p-code\">198.199.103.100</code> as examples. Switch out with your actual domain name and IP address as needed when you encounter these.</p><p id=\"1d7f\" class=\"graf graf--p graf-after--h3\"><code class=\"markup--code markup--p-code\">ssh</code> into your server and use your favorite package manager to install NGINX. If using Ubuntu, you can run:</p><pre id=\"f75e\" class=\"graf graf--pre graf-after--p\">sudo apt-get update<br>sudo apt-get install nginx</pre><p id=\"74b7\" class=\"graf graf--p graf-after--h3\">You can&#x2019;t deliver your website if the server doesn&#x2019;t have your files, so let&#x2019;s add your files to the server.</p><p id=\"897a\" class=\"graf graf--p graf-after--p\">By default, NGINX expects your static files to be in a specific directory (which varies). You can override this in the configuration. For now, let&#x2019;s assume that you&#x2019;ll be putting your website&#x2019;s static files in the <code class=\"markup--code markup--p-code\">/var/www/</code> directory.</p><p id=\"fbc1\" class=\"graf graf--p graf-after--p\">Create a directory in <code class=\"markup--code markup--p-code\">/var/www/</code> called <code class=\"markup--code markup--p-code\">jgefroh.com</code>. This is where your static website&#x2019;s files will go.</p><p id=\"3f24\" class=\"graf graf--p graf-after--p\">Copy your website&#x2019;s static files into that folder. You can use the <code class=\"markup--code markup--p-code\">scp</code> command from your local machine. <code class=\"markup--code markup--p-code\">cd</code> into your website&#x2019;s directory and run:</p><pre id=\"c2cc\" class=\"graf graf--pre graf-after--p\">scp -r * root@198.199.103.100:/var/www/jgefroh.com</pre><p id=\"bee5\" class=\"graf graf--p graf-after--pre\">Be sure to replace the <code class=\"markup--code markup--p-code\">198.199.103.100</code> and <code class=\"markup--code markup--p-code\">jgefroh.com</code> with values appropriate to you.</p><p id=\"e528\" class=\"graf graf--p graf-after--p\">If you don&#x2019;t have a website just yet, you can create a file called <code class=\"markup--code markup--p-code\">index.html</code> with some &#x201C;Coming soon&#x201D; text as a placeholder.</p><p id=\"b721\" class=\"graf graf--p graf-after--h3\">You&#x2019;ll need to tell NGINX about your website and how to serve it.</p><p id=\"a6eb\" class=\"graf graf--p graf-after--p\"><code class=\"markup--code markup--p-code\">cd</code> into <code class=\"markup--code markup--p-code\">/etc/nginx/</code>. This is where the NGINX configuration files are located.</p><p id=\"4c8d\" class=\"graf graf--p graf-after--p\">The two directories we are interested are <code class=\"markup--code markup--p-code\">sites-available</code> and <code class=\"markup--code markup--p-code\">sites-enabled</code>.</p><ul class=\"postList\"><li id=\"3823\" class=\"graf graf--li graf-after--p\"><code class=\"markup--code markup--li-code\">sites-available</code> contains individual configuration files for all of your possible static websites.</li><li id=\"3e92\" class=\"graf graf--li graf-after--li\"><code class=\"markup--code markup--li-code\">sites-enabled</code> contains links to the configuration files that NGINX will actually read and run.</li></ul><p id=\"60e3\" class=\"graf graf--p graf-after--li\">What we&#x2019;re going to do is create a configuration file in <code class=\"markup--code markup--p-code\">sites-available</code>, and then create a symbolic link (a pointer) to that file in <code class=\"markup--code markup--p-code\">sites-enabled</code> to actually tell NGINX to run it.</p><p id=\"8893\" class=\"graf graf--p graf-after--p\">Create a file called<code class=\"markup--code markup--p-code\">jgefroh.com</code> in the <code class=\"markup--code markup--p-code\">sites-available</code> directory and add the following text to it:</p><pre id=\"1e3e\" class=\"graf graf--pre graf-after--p\">server {<br>  listen 80 default_server;<br>  listen [::]:80 default_server;</pre><pre id=\"b7c2\" class=\"graf graf--pre graf-after--pre\">  root /var/www/jgefroh.com;</pre><pre id=\"87ce\" class=\"graf graf--pre graf-after--pre\">  index index.html;</pre><pre id=\"ad35\" class=\"graf graf--pre graf-after--pre\">  server_name jgefroh.com www.jgefroh.com;</pre><pre id=\"586e\" class=\"graf graf--pre graf-after--pre\">  location / {<br>    try_files $uri $uri/ =404;<br>  }<br>}</pre><p id=\"4189\" class=\"graf graf--p graf-after--pre\">Be sure to replace <code class=\"markup--code markup--p-code\">jgefroh.com</code> with your actual domain name.</p><p id=\"2224\" class=\"graf graf--p graf-after--p\">This file tells NGINX several things:</p><ul class=\"postList\"><li id=\"f30b\" class=\"graf graf--li graf-after--p\">Deliver files from the folder <code class=\"markup--code markup--li-code\">/var/www/jgefroh.com</code></li><li id=\"7b12\" class=\"graf graf--li graf-after--li\">The main index page is called <code class=\"markup--code markup--li-code\">index.html</code>.</li><li id=\"d600\" class=\"graf graf--li graf-after--li\">Requests that are requesting <code class=\"markup--code markup--li-code\">jgefroh.com</code> should be served by this <code class=\"markup--code markup--li-code\">server</code> block.</li><li id=\"74cb\" class=\"graf graf--li graf-after--li\">Note the <code class=\"markup--code markup--li-code\">www</code> is also listed separately. This tells nginx to also route requests starting with <code class=\"markup--code markup--li-code\">www</code> to the site. There&#x2019;s actually nothing special about the <code class=\"markup--code markup--li-code\">www</code>&#x200A;&#x2014;&#x200A;it&#x2019;s treated like any other subdomain.</li></ul><p id=\"8c29\" class=\"graf graf--p graf-after--li\">Now that the file is created, we&#x2019;ll add it to the <code class=\"markup--code markup--p-code\">sites-enabled</code> folder to tell NGINX to enable it. The syntax is as follows:</p><pre id=\"c445\" class=\"graf graf--pre graf-after--p\">ln -s &lt;SOURCE_FILE&gt; &lt;DESTINATION_FILE&gt;</pre><p id=\"8f54\" class=\"graf graf--p graf-after--pre\">The actual syntax will look like:</p><pre id=\"44c5\" class=\"graf graf--pre graf-after--p\">ln -s /etc/nginx/sites-available/jgefroh.com /etc/nginx/sites-enabled/jgefroh.com</pre><p id=\"641a\" class=\"graf graf--p graf-after--pre\">Now, if you were to restart NGINX you should see your site!</p><pre id=\"37e3\" class=\"graf graf--pre graf-after--p\">sudo systemctl restart nginx</pre><p id=\"1f7f\" class=\"graf graf--p graf-after--pre graf--trailing\">If it gives you an error, there&#x2019;s likely a syntax error. You can stop here if you&#x2019;d like, but you can also continue for some more optimization.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"34e3\" class=\"graf graf--p graf-after--h3\">With the advent of free SSL certs from <a href=\"https://letsencrypt.org/\" class=\"markup--anchor markup--p-anchor\">LetsEncrypt</a>, there&#x2019;s really no reason why you shouldn&#x2019;t have HTTPS enabled for your website. In addition to the improved security, there&#x2019;s significant performance opportunities it allows via HTTP/2 (browser vendors require encryption to enable this), you&#x2019;ll increase user confidence, and you&#x2019;ll even rank higher in SEO.</p><p id=\"158a\" class=\"graf graf--p graf-after--h4\">There&#x2019;s multiple ways to do this. You can buy a single-domain certification or a wildcard certification if you plan on securing subdomains.</p><p id=\"62c4\" class=\"graf graf--p graf-after--p\">You can also go the free route via <a href=\"https://letsencrypt.org/\" class=\"markup--anchor markup--p-anchor\">LetsEncrypt</a>:</p><pre id=\"a84f\" class=\"graf graf--pre graf-after--p\">sudo apt-get install software-properties-common<br>sudo add-apt-repository ppa:certbot/certbot<br>sudo apt-get update<br>sudo apt-get install python-certbot-nginx<br>sudo certbot --nginx certonly</pre><p id=\"76e4\" class=\"graf graf--p graf-after--pre\">Follow the instructions. This will install certs in <code class=\"markup--code markup--p-code\">/etc/letsencrypt/live/jgefroh.com/</code>;</p><p id=\"d7ee\" class=\"graf graf--p graf-after--p\"><strong class=\"markup--strong markup--p-strong\">Enable auto-renewal for certificates:</strong></p><p id=\"e142\" class=\"graf graf--p graf-after--p\">Edit the <code class=\"markup--code markup--p-code\">crontab</code> and create a CRON job to run the renewal command:</p><pre id=\"8b99\" class=\"graf graf--pre graf-after--p\">sudo crontab -e</pre><p id=\"d472\" class=\"graf graf--p graf-after--pre\">Add the following line:</p><pre id=\"5f2f\" class=\"graf graf--pre graf-after--p\">17 7 * * * certbot renew --post-hook &quot;systemctl reload nginx&quot;</pre><p id=\"0f9c\" class=\"graf graf--p graf-after--h4\">Once you&#x2019;ve acquired your SSL certs, you&#x2019;ll need to let NGINX know to use them.</p><p id=\"9c38\" class=\"graf graf--p graf-after--p\">Let&#x2019;s modify the configuration file we created for <code class=\"markup--code markup--p-code\">jgefroh.com</code> to use SSL.</p><p id=\"4d7f\" class=\"graf graf--p graf-after--p\">Inside the <code class=\"markup--code markup--p-code\">server</code> block we created, add the following text, changing the paths to point to wherever the certificate file and the key file are stored (usually store in the <code class=\"markup--code markup--p-code\">/etc/nginx/certs/</code> directory):</p><pre id=\"9594\" class=\"graf graf--pre graf-after--p\">server {<br>   # ...previous content here<br>   ssl on;<br>   ssl_certificate /etc/letsencrypt/live/jgefroh.com/fullchain.pem;<br>   ssl_certificate_key /etc/letsencrypt/live/jgefroh.com/privkey.pem;</pre><p id=\"54eb\" class=\"graf graf--p graf-after--pre\">This tells nginx to enable SSL and use the specified key and certificate for that server.</p><p id=\"0b27\" class=\"graf graf--p graf-after--p\">We also now face an issue: Port 80, what we&#x2019;re currently listening to, is for HTTP connections. SSL connections use port 443. The solution? Change the port from 80 to 443.</p><pre id=\"c01f\" class=\"graf graf--pre graf-after--p\">server {<br>   listen 443 default_server;<br>   listen [::]:443 default_server;<br>   #... all other content<br>}</pre><p id=\"ce74\" class=\"graf graf--p graf-after--pre\">This however, breaks people going to the website without <code class=\"markup--code markup--p-code\">https://</code> explicitly in the URL. To fix this, we&#x2019;ll redirect HTTP requests to the HTTPS url. Add the following new server block after the HTTPS (443) server block:</p><pre id=\"bf5c\" class=\"graf graf--pre graf-after--p\">server {<br>       listen 0.0.0.0:80;<br>       server_name jgefroh.com <a href=\"http://www.jgefroh.com/\" class=\"markup--anchor markup--pre-anchor\">www.jgefroh.com</a>;<br>       rewrite ^ <a href=\"https:///$host$request_uri\" class=\"markup--anchor markup--pre-anchor\">https://$host$request_uri</a>? permanent;<br>}</pre><p id=\"1e6e\" class=\"graf graf--p graf-after--pre\">This will redirect all requests to <code class=\"markup--code markup--p-code\">jgefroh.com</code> and <code class=\"markup--code markup--p-code\">www.jgefroh.com</code> on port 80 to the HTTPS URL.</p><p id=\"e23d\" class=\"graf graf--p graf-after--p\">Now, restart NGINX&#x2026;</p><pre id=\"ed45\" class=\"graf graf--pre graf-after--p\">sudo systemctl restart nginx</pre><p id=\"1f2e\" class=\"graf graf--p graf-after--pre\">&#x2026;and you should have SSL enabled!</p><p id=\"a648\" class=\"graf graf--p graf-after--p\">Test it by going to the four variations of your URL, eg.:</p><ul class=\"postList\"><li id=\"a8b5\" class=\"graf graf--li graf-after--p\">http://jgefroh.com</li><li id=\"0e02\" class=\"graf graf--li graf-after--li\">https://jgefroh.com</li><li id=\"1f59\" class=\"graf graf--li graf-after--li\">http://www.jgefroh.com</li><li id=\"76bc\" class=\"graf graf--li graf-after--li\">https://www.jgefroh.com</li></ul><p id=\"34a6\" class=\"graf graf--p graf-after--li graf--trailing\">They should all work and be secured via HTTPS.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"5efe\" class=\"graf graf--p graf-after--h4\">HTTP/2 allows browsers to request files in parallel, greatly improving the speed of delivery. You&#x2019;ll need HTTPS enabled. Edit your browser configuration file, adding <code class=\"markup--code markup--p-code\">http2</code> to the <code class=\"markup--code markup--p-code\">listen</code> directive, then restart NGINX:</p><pre id=\"162b\" class=\"graf graf--pre graf-after--p\">server {<br>   listen 443 http2 default_server;<br>   listen [::]:443 http2 default_server;<br>   #... all other content<br>}</pre><p id=\"7180\" class=\"graf graf--p graf-after--h4\">gzip compression can greatly decrease the size of files during transmission (sometimes by over 80%).</p><p id=\"76ef\" class=\"graf graf--p graf-after--p\">Add the following to your <code class=\"markup--code markup--p-code\">server</code> block:</p><pre id=\"8c2c\" class=\"graf graf--pre graf-after--p\">server {<br>   #...previous content<br>   gzip on;<br>   gzip_types application/javascript image/* text/css;<br>   gunzip on;<br>}</pre><p id=\"9e37\" class=\"graf graf--p graf-after--pre\">This will ensure that javascript files, images, and CSS files are always compressed.</p><blockquote id=\"8650\" class=\"graf graf--blockquote graf-after--p\"><strong class=\"markup--strong markup--blockquote-strong\">Warning:</strong></blockquote><blockquote id=\"1243\" class=\"graf graf--blockquote graf-after--blockquote\">A <a href=\"https://en.wikipedia.org/wiki/CRIME\" class=\"markup--anchor markup--blockquote-anchor\">security vulnerability</a> exists when you enable gzip compression in conjunction with HTTPS that allows attackers to decrypt data. For static websites that don&#x2019;t serve users sensitive data, this is less of an issue, but for any site serving sensitive information you should disable compression for those resources.</blockquote><p id=\"c6c5\" class=\"graf graf--p graf-after--h4\">Some files don&#x2019;t ever change, or change rarely, so there&#x2019;s no need to have users re-download the latest version. You can set cache control headers to provide hints to browsers to let them know what files they shouldn&#x2019;t request again.</p><pre id=\"a07c\" class=\"graf graf--pre graf-after--p\">server {<br>   #...after the location / block<br>   location ~* \\.(jpg|jpeg|png|gif|ico)$ {<br>       expires 30d;<br>    }<br>    location ~* \\.(css|js)$ {<br>       expires 7d;<br>    }<br>}</pre><p id=\"29ff\" class=\"graf graf--p graf-after--pre graf--trailing\">Examine how frequently your various file types change, and then set them to expire at appropriate times. If&#xA0;<code class=\"markup--code markup--p-code\">.css</code> and&#xA0;<code class=\"markup--code markup--p-code\">.js</code> files change regularly, you should set the expiration to be shorter. If image files like&#xA0;<code class=\"markup--code markup--p-code\">.jpg</code> never change, you can set them to expire months from now.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"1ca3\" class=\"graf graf--p graf-after--h3\">If you have subdomains, chances are you don&#x2019;t want to have to route every subdomain to the right folder. It&#x2019;s a maintenance pain. Instead, create a wildcard server block for it, routing to the folder that matches the name:</p><pre id=\"3db8\" class=\"graf graf--pre graf-after--p\">server {<br>       server_name ~^(www\\.)(?&lt;subdomain&gt;.+).jgefroh.com$ ;<br>       root /var/www/jgefroh.com/$subdomain;<br>}<br>server {<br>        server_name ~^(?&lt;subdomain&gt;.+).jgefroh.com$ ;<br>        root /var/www/jgefroh.com/$subdomain;<br>}</pre><p id=\"56eb\" class=\"graf graf--p graf-after--pre graf--trailing\">Restart nginx, and you&#x2019;ll automatically route subdomains to the same-named subfolder.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"eae5\" class=\"graf graf--p graf--leading graf--trailing\"><em class=\"markup--em markup--p-em\">Did you find this story helpful? Please </em><strong class=\"markup--strong markup--p-strong\"><em class=\"markup--em markup--p-em\">Clap </em></strong><em class=\"markup--em markup--p-em\">to show your support!<br>If you didn&#x2019;t find it helpful, please let me know why with a </em><strong class=\"markup--strong markup--p-strong\"><em class=\"markup--em markup--p-em\">Comment</em></strong><em class=\"markup--em markup--p-em\">!</em></p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"9d95\" class=\"graf graf--p graf--leading graf--trailing\">Also available on my <a href=\"https://jgefroh.com/@jgefroh/a-guide-to-using-nginx-for-static-websites-d96a9d034940/\" class=\"markup--anchor markup--p-anchor\">website</a>.</p></div></div></div></div>\n</div>\n    ",
+            "lectureType" : "L",
+            "minute" : 14,
+            "name" : "Hola",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 374,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l10" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 14,
+            "name" : "AMLO",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "El Pulso De La República",
+              "channel" : "https://yt3.ggpht.com/a/AGF-l7-oGQu1ilmYlhnm-ryFfDD6u_yxu2AQMswg5A=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "Q_k2NnY9LkM",
+              "duration" : 1221,
+              "id" : 4094,
+              "name" : "AMLO A LOS PIES DE TRUMP - EL PULSO DE LA REPÚBLICA",
+              "thumbnail" : "https://i.ytimg.com/vi/Q_k2NnY9LkM/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "description" : "<p>Hello my amigos</p>",
+            "evaluationLimit" : 6,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "instruction" : "<p>Puntos:</p><p>1</p><p>2</p><p>4</p>",
+            "minute" : 5,
+            "name" : "Primera evaluación",
+            "percentage" : 40,
+            "questionSaved" : true,
+            "questionToAttempt" : 4,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 1441,
+              "index" : 1,
+              "lessonId" : 4336,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1441,
+                "id" : 4408,
+                "option" : "manipulate"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1441,
+                "id" : 4409,
+                "option" : "display "
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1441,
+                "id" : 4410,
+                "option" : "JavaScript"
+              } ],
+              "questionBlob" : "Parse, validate, #[manipulate], and #[display ]dates and times in #[JavaScript].",
+              "questionType" : "rellenar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1357,
+              "index" : 2,
+              "lessonId" : 4336,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1357,
+                "explain" : "",
+                "id" : 4115,
+                "option" : "a"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1357,
+                "explain" : "",
+                "id" : 4116,
+                "option" : "b"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1357,
+                "explain" : "",
+                "id" : 4117,
+                "option" : "c"
+              } ],
+              "questionBlob" : "1",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1358,
+              "index" : 2,
+              "lessonId" : 4336,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1358,
+                "explain" : "",
+                "id" : 4118,
+                "option" : "a"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1358,
+                "explain" : "",
+                "id" : 4119,
+                "option" : "b"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1358,
+                "explain" : "",
+                "id" : 4120,
+                "option" : "c"
+              } ],
+              "questionBlob" : "2",
+              "questionType" : "OM",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1440,
+              "imageUrl" : "1U20DSYQQ7",
+              "index" : 3,
+              "lessonId" : 4336,
+              "options" : [ {
+                "answer" : false,
+                "evaluationQuestionId" : 1440,
+                "explain" : "",
+                "id" : 4405,
+                "option" : "AngularJS"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1440,
+                "explain" : "Es lo más obvio",
+                "id" : 4406,
+                "option" : "Angular ^2"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1440,
+                "explain" : "Más mejor",
+                "id" : 4407,
+                "option" : "React"
+              } ],
+              "questionBlob" : "¿AngularJS o Angular?",
+              "questionType" : "foto",
+              "right" : true
+            } ],
+            "randomly" : false,
+            "saved" : true,
+            "time" : 5,
+            "type" : "E",
+            "typeAdded" : true,
+            "videoUploaded" : true,
+            "weighing" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "hour" : 4,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 5,
+            "lectureBlob" : "<div class=\"lectureBlob\" style=\"width: 100%; text-align: justify;\">\n  <h1 style=\"margin-bottom: 5px !important;\">Angular 5 — routing</h1>\n  <h3 style=\"opacity: .6; font-size: 20px !important; margin-bottom: 25px !important\">concept of routing and navigation in angular 5 web applications</h3>\n  <div><div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p id=\"1526\" class=\"graf graf--p graf--leading\">in the last article, we created a <code class=\"markup--code markup--p-code\">pokemon-list</code> component, which displays an unordered list of pokemon names. the goal of this article is to be able to click on a pokmon name and get redirected to a <code class=\"markup--code markup--p-code\">details</code> route which displays some additional details for the selected pokemon.</p><p id=\"1526\" class=\"graf graf--p graf--leading\"><br></p><p id=\"1526\" class=\"graf graf--p graf--leading\"><img src=\"https://ulernit.s3.us-west-2.amazonaws.com/1554928280324\"><br></p><p id=\"1526\" class=\"graf graf--p graf--leading\"></p><div class=\"ui-wrapper\" style=\"overflow: hidden; position: static; width: 0px; height: 0px; top: auto; left: auto; margin: 0px;\"><div class=\"ui-wrapper\" style=\"overflow: hidden; position: static; width: 0px; height: 0px; top: auto; left: auto; margin: 0px;\"><img src=\"https://ulernit.s3.us-west-2.amazonaws.com/1554928163394\" class=\"ui-resizable\" style=\"margin: 0px; resize: none; position: static; zoom: 1; display: block; height: 0px; width: 0px;\" alt=\"\"><div class=\"ui-resizable-handle ui-resizable-e\" style=\"z-index: 90;\"></div><div class=\"ui-resizable-handle ui-resizable-s\" style=\"z-index: 90;\"></div><div class=\"ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se\" style=\"z-index: 90;\"></div></div><div class=\"ui-resizable-handle ui-resizable-e\" style=\"z-index: 90;\"></div><div class=\"ui-resizable-handle ui-resizable-s\" style=\"z-index: 90;\"></div><div class=\"ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se\" style=\"z-index: 90;\"></div></div><div class=\"ui-wrapper\" style=\"overflow: hidden; position: static; width: 608px; height: 342px; top: auto; left: auto; margin: 0px;\"><img src=\"https://ulernit.s3.us-west-2.amazonaws.com/1554928194050\" class=\"ui-resizable\" style=\"margin: 0px; resize: none; position: static; zoom: 1; display: block; height: 342px; width: 608px;\"><div class=\"ui-resizable-handle ui-resizable-e\" style=\"z-index: 90;\"></div><div class=\"ui-resizable-handle ui-resizable-s\" style=\"z-index: 90;\"></div><div class=\"ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se\" style=\"z-index: 90;\"></div></div><br><p></p><p id=\"c2f8\" class=\"graf graf--p graf-after--p\">let’s do it.</p><ol class=\"postList\"><li id=\"9a4f\" class=\"graf graf--li graf-after--p\">create a new <code class=\"markup--code markup--li-code\">pokemon-details</code> component to display the additional details for selected pokemon.</li></ol><pre id=\"a4db\" class=\"graf graf--pre graf-after--li\">ng generate component pokemon-details</pre><p id=\"8405\" class=\"graf graf--p graf-after--pre\">we will return to this later in this article.</p><p id=\"8644\" class=\"graf graf--p graf-after--p\">2. create a routing <code class=\"markup--code markup--p-code\">module</code></p><pre id=\"0a85\" class=\"graf graf--pre graf-after--p\">ng generate module app-routing</pre><p id=\"915e\" class=\"graf graf--p graf-after--pre\">this creates <em class=\"markup--em markup--p-em\">AppRoutingModule. </em>before going into the details of routing, let’s import this into it’s companion <em class=\"markup--em markup--p-em\">AppModule </em>by adding to <code class=\"markup--code markup--p-code\">imports</code> array.</p><blockquote id=\"e8f7\" class=\"graf graf--blockquote graf-after--p\">follow same naming convention for a routing module, as it’s companion module, suffixing just <code class=\"markup--code markup--blockquote-code\">Routing</code> to the companion module.</blockquote><blockquote id=\"81ba\" class=\"graf graf--blockquote graf-after--blockquote\">eg. ThisModule &gt;&gt; ThisRoutingModule</blockquote><p id=\"1cbc\" class=\"graf graf--p graf-after--blockquote\">3. currently our router module looks like below (like any other module generated from <code class=\"markup--code markup--p-code\">cli</code>)</p><figure id=\"6fc7\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"244d\" class=\"graf graf--p graf-after--figure\">since we haven’t looked inside the details of a typical module yet, let’s quickly see the two important properties of <code class=\"markup--code markup--p-code\">@NgModule</code> decorator metadata —</p><ul class=\"postList\"><li id=\"15a3\" class=\"graf graf--li graf-after--p\"><strong class=\"markup--strong markup--li-strong\">imports </strong>— array of other modules that components in current module will need to function. we see above, <code class=\"markup--code markup--li-code\">CommonModule</code> is added to <code class=\"markup--code markup--li-code\">imports</code> array. <code class=\"markup--code markup--li-code\">CommonModule</code> contains all the basic angular directives like <code class=\"markup--code markup--li-code\">*ngIf</code>, <code class=\"markup--code markup--li-code\">*ngFor</code> etc.</li><li id=\"0fce\" class=\"graf graf--li graf-after--li\"><strong class=\"markup--strong markup--li-strong\">declarations </strong>— array of declarable classes: components, directives and pipes</li></ul><p id=\"0b18\" class=\"graf graf--p graf-after--li\">generally, routing module will never have it’s own components etc and in turn no templates, so we should get rid of <code class=\"markup--code markup--p-code\">declarations</code> property and <code class=\"markup--code markup--p-code\">CommonModule</code> references.</p><p id=\"ba97\" class=\"graf graf--p graf-after--p\">here is the cleaner router module:</p><figure id=\"0401\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"1a0a\" class=\"graf graf--p graf-after--figure\">4. import <code class=\"markup--code markup--p-code\">RouterModule</code> and <code class=\"markup--code markup--p-code\">Routes</code> from <code class=\"markup--code markup--p-code\">@angular/router</code> library.</p><ul class=\"postList\"><li id=\"e22c\" class=\"graf graf--li graf-after--p\">we need to re-export <code class=\"markup--code markup--li-code\">RouterModule</code> in our routing module, so the companion module components have access to routing directives like <code class=\"markup--code markup--li-code\">RouterLink</code> (explained later in this article) etc.</li><li id=\"77b4\" class=\"graf graf--li graf-after--li\"><code class=\"markup--code markup--li-code\">Routes</code> is an array of <code class=\"markup--code markup--li-code\">Route</code> configurations. Each <code class=\"markup--code markup--li-code\">Route</code>, apart from many other important properties, has two basic properties: <code class=\"markup--code markup--li-code\">path</code> which is the url string in browser and <code class=\"markup--code markup--li-code\">component</code> which is the component created on visiting this route.</li></ul><blockquote id=\"083a\" class=\"graf graf--blockquote graf-after--li\"><code class=\"markup--code markup--blockquote-code\">Route</code> tells our application to match the <code class=\"markup--code markup--blockquote-code\">path</code> in browser url and decide which <code class=\"markup--code markup--blockquote-code\">component</code> to display.</blockquote><p id=\"2663\" class=\"graf graf--p graf-after--blockquote\">updated routing module is this now:</p><figure id=\"2fd5\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"c50e\" class=\"graf graf--p graf-after--figure\">it’s time to add some routes now.</p><p id=\"fc66\" class=\"graf graf--p graf-after--p\">5. currently, when we run our application using <code class=\"markup--code markup--p-code\">ng serve</code> and visit <a href=\"http://localhost:4200/\" class=\"markup--anchor markup--p-anchor\">http://localhost:4200/</a> we see a list of pokemons. let’s give this a route url <code class=\"markup--code markup--p-code\">/pokemons</code></p><p id=\"a457\" class=\"graf graf--p graf-after--p\">to do this, we need to first create an array of <code class=\"markup--code markup--p-code\">Route</code> objects of type <code class=\"markup--code markup--p-code\">Routes</code>, and then add <code class=\"markup--code markup--p-code\">RouterModule.forRoot(&lt;Routes array&gt;)</code> (if the companion module is <code class=\"markup--code markup--p-code\">root</code> module, <code class=\"markup--code markup--p-code\">forChild</code> for all other routing modules) to our routing module <code class=\"markup--code markup--p-code\">imports</code> array.</p><figure id=\"2101\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"be19\" class=\"graf graf--p graf-after--figure\">what this tell our application is to match the <code class=\"markup--code markup--p-code\">path</code> <a href=\"http://localhost:4200/pokemons\" class=\"markup--anchor markup--p-anchor\">http://localhost:4200/pokemons</a> and load <code class=\"markup--code markup--p-code\">PokemonListComponent</code>.</p><p id=\"6880\" class=\"graf graf--p graf-after--p\">6. try visiting this path in the url and you should still be able to see the list of pokemon names. pretty cool, yeah.</p><p id=\"3aab\" class=\"graf graf--p graf-after--p\">let’s quickly configure another <code class=\"markup--code markup--p-code\">Route</code> to redirect to <code class=\"markup--code markup--p-code\">/pokemons</code> url, when we provide an empty url.</p><figure id=\"8d7c\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"9249\" class=\"graf graf--p graf-after--figure\">ok, so now visiting <a href=\"http://localhost:4200/\" class=\"markup--anchor markup--p-anchor\">http://localhost:4200/</a> will redirect us to <a href=\"http://localhost:4200/pokemons\" class=\"markup--anchor markup--p-anchor\">http://localhost:4200/pokemons</a> and we should see our list of pokemons, as we did before.</p><p id=\"b96e\" class=\"graf graf--p graf-after--p\">7. there is one thing wrong though in our routing so far. <code class=\"markup--code markup--p-code\">pokemon-list</code> component is directly used in <code class=\"markup--code markup--p-code\">app.component.html</code> template, rather this should now be the responsibility of our router to create the component based on route. it needs a placeholder though, to know where to render the component.</p><blockquote id=\"3c99\" class=\"graf graf--blockquote graf-after--p\"><code class=\"markup--code markup--blockquote-code\">RouterOutlet</code> directive provides that placeholder.</blockquote><p id=\"5ecc\" class=\"graf graf--p graf-after--blockquote\">update <code class=\"markup--code markup--p-code\">app.component.html</code> with below line:</p><pre id=\"5e49\" class=\"graf graf--pre graf-after--p\">&lt;router-outlet&gt;&lt;/router-outlet&gt;</pre><p id=\"88e1\" class=\"graf graf--p graf-after--pre\">everything still runs the same but with a powerful change behind the scenes. now, when <code class=\"markup--code markup--p-code\">/pokemons</code> url is matched, router takes the matching component <code class=\"markup--code markup--p-code\">pokemon-list</code> and appends after <code class=\"markup--code markup--p-code\">router-outlet</code> which you can see in the dom.</p><p id=\"92c8\" class=\"graf graf--p graf-after--p\">8. let’s now create another route to display <code class=\"markup--code markup--p-code\">pokemon-details</code>. what we want here is to be able to click on a name in pokemon list and get redirected to a url like <code class=\"markup--code markup--p-code\">/pokemon/&lt;selected-pokemon-id&gt;</code> to see details for that pokemon. here is the updated router file:</p><figure id=\"c8fc\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"c5b4\" class=\"graf graf--p graf-after--figure\">the&nbsp;<code class=\"markup--code markup--p-code\">:id</code> above at the end of new path url is placeholder for the selected pokemon id. <code class=\"markup--code markup--p-code\">PokemonDetailsComponent</code> is what we created in step 1 to display the details, that we will work on next. before that, add the <em class=\"markup--em markup--p-em\">click and redirect to this new route </em>functionality to our list.</p><p id=\"5ee0\" class=\"graf graf--p graf-after--p\">update <code class=\"markup--code markup--p-code\">pokemon-list.component.html</code> with below html:</p><figure id=\"b33f\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><ul class=\"postList\"><li id=\"ef8e\" class=\"graf graf--li graf-after--figure\">pokemon name <code class=\"markup--code markup--li-code\">span</code> is now updated to an <code class=\"markup--code markup--li-code\">anchor</code> tag.</li><li id=\"bde2\" class=\"graf graf--li graf-after--li\"><code class=\"markup--code markup--li-code\">RouterLink</code> directive provides navigation to the new route that we created. note how we are passing <code class=\"markup--code markup--li-code\">{{pokemon._id}}</code> in place of&nbsp;<code class=\"markup--code markup--li-code\">:id</code> from route path url.</li></ul><p id=\"4284\" class=\"graf graf--p graf-after--li\">9. and there, you have a click navigation enabled on your pokemon list. if you click on any of the names, you should be redirected to a similar url like below,</p><pre id=\"0317\" class=\"graf graf--pre graf-after--p\"><a href=\"http://localhost:4200/pokemon/5a81d4a0ef0bba001172dc22\" class=\"markup--anchor markup--pre-anchor\">http://localhost:4200/pokemon/5a81d4a0ef0bba001172dc22</a></pre><p id=\"45fa\" class=\"graf graf--p graf-after--pre\">where last part is the id of selected pokemon, that is coming from api data.</p><p id=\"4941\" class=\"graf graf--p graf-after--p\">but for now, details component displays just a hard-coded text. let’s update this to display some interesting details.</p><p id=\"b54b\" class=\"graf graf--p graf-after--p\">10. we need details for the selected pokemon id. update <code class=\"markup--code markup--p-code\">PokemonService</code> that we created in previous article, to get single pokemon details by it’s id.</p><figure id=\"d9d6\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"8284\" class=\"graf graf--p graf-after--figure\">11. use the above service during <code class=\"markup--code markup--p-code\">OnInit</code> hook of our <code class=\"markup--code markup--p-code\">PokemonDetailsComponent</code> as shown below:</p><figure id=\"832c\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><p id=\"1d09\" class=\"graf graf--p graf-after--figure\">apart from the familiar component that we know from previous articles, we are importing <code class=\"markup--code markup--p-code\">ActivatedRoute</code> class from router library. this class holds route specific information, which in this case is the <code class=\"markup--code markup--p-code\">id</code> of selected pokemon (remember&nbsp;<code class=\"markup--code markup--p-code\">:id</code> from route config path).</p><p id=\"cb2f\" class=\"graf graf--p graf-after--p\">12. now that we have details of the selected pokemon, let’s update component view template to display some of this data:</p><figure id=\"451c\" class=\"graf graf--figure graf--iframe graf-after--p\"><div class=\"aspectRatioPlaceholder is-locked\"></div></figure><blockquote id=\"30ab\" class=\"graf graf--blockquote graf-after--figure\">notice <code class=\"markup--code markup--blockquote-code\">[src]</code> in <code class=\"markup--code markup--blockquote-code\">img</code> tag above. this is an example of one-way property (not attribute, though the name is same) binding in angular templates.</blockquote><blockquote id=\"cd1d\" class=\"graf graf--blockquote graf-after--blockquote\"><code class=\"markup--code markup--blockquote-code\">[src]</code> is equivalent to <code class=\"markup--code markup--blockquote-code\">ng-src</code> from angular 1.x</blockquote><blockquote id=\"cde7\" class=\"graf graf--blockquote graf-after--blockquote\">also, <code class=\"markup--code markup--blockquote-code\">|</code> is a pipe, equivalent to <code class=\"markup--code markup--blockquote-code\">filter</code>s in angular 1.x</blockquote><p id=\"34c7\" class=\"graf graf--p graf-after--blockquote\">and we have our details route ready, to display selected pokemon name (in uppercase), photo and <a href=\"http://pokemon.wikia.com/wiki/Evolution\" class=\"markup--anchor markup--p-anchor\">evolution source</a>.</p><p id=\"1bf4\" class=\"graf graf--p graf-after--p\">next, we will look into the details of one of the core concepts of angular — dependency injection (DI)and services.</p><p id=\"f17e\" class=\"graf graf--p graf-after--p graf--trailing\"><a href=\"https://medium.com/all-is-web/angular-5-creating-new-component-c6c5236f8024\" class=\"markup--anchor markup--p-anchor\"><em class=\"markup--em markup--p-em\">&lt;prev</em></a> | <em class=\"markup--em markup--p-em\">next(coming soon)&gt;</em></p></div></div></div></div>\n</div>\n    ",
+            "lectureType" : "L",
+            "minute" : 24,
+            "name" : "Lecturosa 2",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 264,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "description" : "<p>Que pasa amigos, esto es todo una evaluación completa para ver los tipos de preguntas</p>",
+            "evaluationLimit" : 15,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 6,
+            "instruction" : "<p>1</p><p>2</p><p>3</p><p>4</p>",
+            "minute" : 15,
+            "name" : "Preguntas cool",
+            "percentage" : 50,
+            "questionSaved" : true,
+            "questionToAttempt" : 3,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 1436,
+              "index" : 3,
+              "lessonId" : 4359,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1436,
+                "id" : 4396,
+                "option" : "entendedor"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1436,
+                "id" : 4397,
+                "option" : "palabras"
+              } ],
+              "questionBlob" : "A buen #[entendedor], pocas #[palabras] #[bastan].",
+              "questionType" : "rellenar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1438,
+              "index" : 4,
+              "lessonId" : 4359,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1438,
+                "id" : 4401,
+                "option" : "mundo"
+              } ],
+              "questionBlob" : "Hola #[mundo]!",
+              "questionType" : "rellenar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1437,
+              "lessonId" : 4359,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1437,
+                "id" : 4398,
+                "option" : "pajaro"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1437,
+                "id" : 4399,
+                "option" : "mano"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1437,
+                "id" : 4400,
+                "option" : "volar"
+              } ],
+              "questionBlob" : "Más vale #[pajaro] en #[mano] que verlo #[volar].",
+              "questionType" : "rellenar",
+              "right" : true
+            } ],
+            "saved" : true,
+            "time" : 15,
+            "type" : "E",
+            "typeAdded" : true,
+            "videoUploaded" : true,
+            "weighing" : true
+          },
+          "l5" : {
+            "buttonHidden" : true,
+            "description" : "<p>Es la última oportunidad de pasar chavos!</p>",
+            "evaluationLimit" : 45,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 7,
+            "instruction" : "<p>Echenle ganas, que más...</p>",
+            "minute" : 10,
+            "name" : "Examen FINAL",
+            "percentage" : 10,
+            "questionSaved" : true,
+            "questionToAttempt" : 4,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 1447,
+              "index" : 1,
+              "lessonId" : 4525,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1447,
+                "explain" : "A",
+                "id" : 4427,
+                "option" : "a"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1447,
+                "explain" : "B",
+                "id" : 4428,
+                "option" : "b"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1447,
+                "explain" : "C",
+                "id" : 4429,
+                "option" : "c"
+              } ],
+              "questionBlob" : "Relaciona las palabras con el texto correspondiente",
+              "questionType" : "relacionar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1453,
+              "index" : 2,
+              "lessonId" : 4525,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1453,
+                "explain" : "Es para crear la estructura del sitio web",
+                "id" : 4447,
+                "option" : "HTML"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1453,
+                "explain" : "Permite cambiar la vista del sitio web",
+                "id" : 4448,
+                "option" : "CSS"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1453,
+                "explain" : "Da funcionalidad a sitios para ser más dinámicos",
+                "id" : 4449,
+                "option" : "Javascript"
+              } ],
+              "questionBlob" : "Que cosa tiene más sentido",
+              "questionType" : "relacionar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1445,
+              "index" : 3,
+              "lessonId" : 4525,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1445,
+                "id" : 4417,
+                "option" : "entendedor"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1445,
+                "id" : 4418,
+                "option" : "palabras"
+              } ],
+              "questionBlob" : "A buen #[entendedor], pocas #[palabras] bastan.",
+              "questionType" : "rellenar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1449,
+              "imageUrl" : "Q91Q4DG34J",
+              "index" : 4,
+              "lessonId" : 4525,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1449,
+                "explain" : "Obvio",
+                "id" : 4434,
+                "option" : "REACT"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1449,
+                "explain" : "Quizá!",
+                "id" : 4435,
+                "option" : "Planetas"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1449,
+                "explain" : "También, pero no...",
+                "id" : 4436,
+                "option" : "Un hombre flotando en el fondo"
+              } ],
+              "questionBlob" : "Que ves en la imagen",
+              "questionType" : "foto",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1537,
+              "lessonId" : 4525,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1537,
+                "explain" : "1",
+                "id" : 4672,
+                "option" : "1"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1537,
+                "explain" : "2",
+                "id" : 4673,
+                "option" : "2"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1537,
+                "explain" : "3",
+                "id" : 4674,
+                "option" : "3"
+              } ],
+              "questionBlob" : "Prueba",
+              "questionType" : "OM",
+              "right" : true
+            } ],
+            "randomly" : true,
+            "saved" : true,
+            "time" : 10,
+            "type" : "E",
+            "typeAdded" : true,
+            "videoUploaded" : true,
+            "weighing" : true
+          },
+          "l6" : {
+            "buttonHidden" : true,
+            "description" : "<p>asdasd</p>",
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 7,
+            "name" : "asdasd",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 387,
+              "index" : 2,
+              "lessonId" : 4673,
+              "options" : [ {
+                "id" : 1264,
+                "index" : 1,
+                "option" : "asdasd",
+                "surveyQuestionId" : 387
+              }, {
+                "id" : 1265,
+                "index" : 2,
+                "option" : "asdasd",
+                "surveyQuestionId" : 387
+              }, {
+                "id" : 1266,
+                "index" : 3,
+                "option" : "asdasd",
+                "surveyQuestionId" : 387
+              } ],
+              "questionBlob" : "asdasd"
+            } ],
+            "saved" : true,
+            "type" : "S",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l7" : {
+            "buttonHidden" : true,
+            "hour" : 7,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 7,
+            "lectureBlob" : "<div class=\"lectureBlob\" style=\"width: 100%; text-align: justify;\"><h1 style=\"margin-bottom: 5px !important;\"><span style=\"font-family: 'Ubuntu Medium',sans-serif;\">Implementing Promises In JavaScript</span></h1><h3 style=\"opacity: .6; font-size: 20px !important; margin-bottom: 25px !important;\"><img src=\"https://cdn-images-1.medium.com/fit/c/100/100/1*jLhctHHhVMF6bJrtLwOvyA.jpeg\" class=\"avatar-image u-size50x50 fr-fic fr-dii fr-rounded\" alt=\"Go to the profile of Maciej Cieślar\" style=\"width: 2.52%;\">The thing I love most about programming is the aha! moment when you start to fully understand a concept. Even though it might take a long&hellip;</h3><div><div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><div class=\"uiScale uiScale-ui--regular uiScale-caption--regular u-flexCenter u-marginVertical24 u-fontSize15 js-postMetaLockup\"><div class=\"u-flex0\"><a class=\"link u-baseColor--link avatar\" href=\"https://medium.freecodecamp.org/@maciejcieslar?source=post_header_lockup\"></a></div><div class=\"u-flex1 u-paddingLeft15 u-overflowHidden\"><br></div></div></div><div class=\"section-inner sectionLayout--fullWidth\"><figure class=\"graf graf--figure graf--layoutFillWidth graf-after--h3\" id=\"809e\"><img class=\"progressiveMedia-noscript js-progressiveMedia-inner fr-fic fr-dib\" src=\"https://cdn-images-1.medium.com/max/2600/1*tZ9F-CYdCHLmK9Xsvg0FgA.jpeg\" style=\"width: 35.2%;\"><figcaption class=\"imageCaption\" style=\"text-align: center;\"><em>Photo by <a class=\"markup--anchor markup--figure-anchor\" href=\"https://unsplash.com/photos/YXZnE1jFdFo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Joshua Stannard</a> on <span style=\"color: rgb(85, 57, 130);\"><a class=\"markup--anchor markup--figure-anchor\" href=\"https://unsplash.com/search/photos/venice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a></span></em></figcaption><p><br></p></figure></div><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf-after--figure\" id=\"f1f0\">The thing I love most about programming is the <em class=\"markup--em markup--p-em\">aha!</em> moment when you start to fully understand a concept. Even though it might take a long time and no small amount of effort to get there, it sure is worth it.</p><p class=\"graf graf--p graf-after--p\" id=\"1c5b\">I think that the most effective way to assess (and help improve) our degree of comprehension of a given subject is to try and apply the knowledge to the real world. Not only does this let us identify and ultimately address our weaknesses, but it can also shed some light on the way things work. A simple <em class=\"markup--em markup--p-em\">trial and</em> <em class=\"markup--em markup--p-em\">error&nbsp;</em>approach often reveals those details that had remained elusive previously.</p><p class=\"graf graf--p graf-after--p\" id=\"4a57\"><strong>With that in mind, I believe that learning how to implement promises was one of the most important moments in my programming journey &mdash; it has given me invaluable insight into how asynchronous code works and has made me a better programmer overall.</strong></p><p class=\"graf graf--p graf-after--p fr-text-uppercase\" style=\"text-align: center;\"><strong><span style='font-size: 12px; font-family: \"Ubuntu Medium\", sans-serif; color: rgb(209, 72, 65);'>Check my website</span></strong></p><div class=\"fr-embedly   fr-text-uppercase    \" data-original-embed=\"<a href='http://dgio.me' data-card-branding='0' class='embedly-card'></a>\" style=\"height: 427px;\"><a href=\"http://dgio.me\" data-card-branding=\"0\" class=\"embedly-card\"></a></div><p class=\"graf graf--p graf-after--p\" id=\"db43\"><strong>I hope that this article will help you come to grips with implementing promises in JavaScript as well.</strong></p><p class=\"graf graf--p graf-after--p\" id=\"3214\"><strong>We shall focus on how to implement the promise core according to <a class=\"markup--anchor markup--p-anchor\" href=\"https://promisesaplus.com/\">the Promises/A+ specification</a> with a few methods of <a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api-reference.html\">the Bluebird API</a>. We are also going to be using <a class=\"markup--anchor markup--p-anchor\" href=\"https://en.wikipedia.org/wiki/Test-driven_development\">the TDD approach</a> with <a class=\"markup--anchor markup--p-anchor\" href=\"https://jestjs.io/\">Jest</a>.</strong></p><p class=\"graf graf--p graf-after--p\" id=\"300a\"><strong><a class=\"markup--anchor markup--p-anchor\" href=\"https://www.typescriptlang.org/\">TypeScript</a> is going to come in handy, too.</strong></p><p class=\"graf graf--p graf-after--p\"><strong><img src=\"https://ulernit.s3.us-west-2.amazonaws.com/images/1555538891685.png\" style=\"width: 100%;\" class=\"fr-fic fr-dib\" data-success=\"true\"></strong><br></p><p class=\"graf graf--p graf-after--p\" id=\"44dc\">Given that we are going to be working on the skills of implementation here, I am going to assume you have some basic understanding of what promises are and and a vague sense of how they work. If you don&rsquo;t, <a class=\"markup--anchor markup--p-anchor\" href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises\">here</a> is a great place to start.</p><p class=\"graf graf--p graf-after--p\"><a class=\"fr-file\" href=\"https://ulernit.s3.us-west-2.amazonaws.com/docs/1555538923211.vtt\" target=\"_blank\">-l7MM9yoxII.es.vtt</a></p><p class=\"graf graf--p graf-after--p\"><br></p><div class=\"fr-embedly  \" data-original-embed=\"<a href='https://www.loom.com/share/d1f3effb83db4249b3e1f64effc3c1d3' data-card-branding='0' class='embedly-card'></a>\" style=\"height: 427px;\"><a href=\"https://www.loom.com/share/d1f3effb83db4249b3e1f64effc3c1d3\" data-card-branding=\"0\" class=\"embedly-card\"></a></div><p class=\"graf graf--p graf-after--p\"><br></p><p class=\"graf graf--p graf-after--p\" id=\"607e\">Now that we have that out of the way, go ahead and clone the <a class=\"markup--anchor markup--p-anchor\" href=\"https://github.com/maciejcieslar/promiseq\">repository</a> and let&rsquo;s get started.</p><p class=\"graf graf--p graf-after--h3\" id=\"3ec5\"><span style=\"font-size: 10px;\">As you know, a promise is an object with the following properties:</span></p><p class=\"graf graf--p graf-after--h4\" id=\"1561\"><span style=\"font-size: 10px;\">A method that attaches a handler to our promise. It returns a new promise with the value from the previous one mapped by one of the handler&rsquo;s methods.</span></p><p class=\"graf graf--p graf-after--h4\" id=\"3e06\">An array of handlers attached by <strong class=\"markup--strong markup--p-strong\">then</strong>. A handler is an object containing two methods <strong class=\"markup--strong markup--p-strong\">onSuccess</strong> and <strong class=\"markup--strong markup--p-strong\">onFail</strong>, both of which are passed as arguments to <strong class=\"markup--strong markup--p-strong\">then</strong>(<strong class=\"markup--strong markup--p-strong\">onSuccess</strong>, <strong class=\"markup--strong markup--p-strong\">onFail</strong>)<em class=\"markup--em markup--p-em\">.</em></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"2bfe\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The interface of our handler</figcaption></figure><p class=\"graf graf--p graf-after--h4\" id=\"e8c9\">A promise can be in one of three states: <strong class=\"markup--strong markup--p-strong\">resolved,</strong><em class=\"markup--em markup--p-em\">&nbsp;</em><strong class=\"markup--strong markup--p-strong\">rejected,</strong><em class=\"markup--em markup--p-em\">&nbsp;</em>or<em class=\"markup--em markup--p-em\">&nbsp;</em><strong class=\"markup--strong markup--p-strong\">pending</strong>.</p><p class=\"graf graf--p graf-after--p\" id=\"0722\"><strong class=\"markup--strong markup--p-strong\">Resolved</strong> means that either everything went smoothly and we received our value, or we caught and handled the error.</p><p class=\"graf graf--p graf-after--p\" id=\"2591\"><strong class=\"markup--strong markup--p-strong\">Rejected</strong> means that either we rejected the promise, or an error was thrown and we didn&rsquo;t catch it.</p><p class=\"graf graf--p graf-after--p\" id=\"7556\"><strong class=\"markup--strong markup--p-strong\">Pending</strong> means that neither the <strong class=\"markup--strong markup--p-strong\">resolve</strong> nor the <strong class=\"markup--strong markup--p-strong\">reject</strong> method has been called yet and we are still waiting for the value.</p><p class=\"graf graf--p graf-after--p\" id=\"cf56\">The term &ldquo;the promise is settled&rdquo; means that the promise is either resolved or rejected.</p><p class=\"graf graf--p graf-after--h4\" id=\"a995\">A value that we have either resolved or rejected.</p><p class=\"graf graf--p graf-after--p\" id=\"aac8\"><span style='font-size: 24px; font-family: \"Ubuntu Bold\", sans-serif; color: rgb(124, 112, 107);'>Once the value is set, there is no way of changing it.</span></p><p class=\"graf graf--p graf-after--h3\" id=\"2918\"><span style=\"color: rgb(124, 112, 107);\"><span style=\"font-size: 24px;\"><span style=\"font-family: 'Ubuntu Bold',sans-serif;\">According to the TDD approach, we want to write our tests before the actual code comes along, so let&rsquo;s do just that.</span></span></span></p><p class=\"graf graf--p graf-after--p\" id=\"0102\"><span style='font-size: 24px; font-family: \"Ubuntu Bold\", sans-serif; color: rgb(124, 112, 107);'>Here are the tests for our core:</span></p><span class=\"fr-video fr-dvb fr-draggable fr-active\" contenteditable=\"false\" draggable=\"true\"><video class=\"fr-draggable\" controls=\"\" data-success=\"true\" src=\"https://ulernit.s3.us-west-2.amazonaws.com/videos/1555538954284.mp4\" style=\"width: 600px;\">Su navegador no es compatible con video html5.</video></span><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"2e42\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of our core</figcaption></figure><p class=\"graf graf--p graf-after--h4\" id=\"dc8f\">I highly recommend using the <a class=\"markup--anchor markup--p-anchor\" href=\"https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest\">Jest extension for Visual Studio Code</a>. It runs our tests in the background for us and shows us the result right there between the lines of our code as green and red dots for passed and failed tests, respectively.</p><p class=\"graf graf--p graf-after--p\" id=\"e965\">To see the results, open the &ldquo;Output&rdquo; console and choose the &ldquo;Jest&rdquo; tab.</p><figure class=\"graf graf--figure graf-after--p\" id=\"a328\"><img class=\"progressiveMedia-noscript js-progressiveMedia-inner fr-fic fr-dii\" src=\"https://cdn-images-1.medium.com/max/1600/0*dr7riPl5ZRkUF8lo\"></figure><p class=\"graf graf--p graf-after--figure\" id=\"872e\">We can also run our tests by executing the following command:</p><pre class=\"graf graf--pre graf-after--p\" id=\"b542\">npm run test</pre><p class=\"graf graf--p graf-after--pre\" id=\"28df\">Regardless of how we run the tests, we can see that all of them come back negative.</p><p class=\"graf graf--p graf-after--p\" id=\"d7a9\">Let&rsquo;s change that.</p><figure class=\"graf graf--figure graf--iframe graf-after--h4\" id=\"9236\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of constructor</figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"5057\">Our constructor takes a <strong class=\"markup--strong markup--p-strong\">callback</strong> as a parameter.</p><p class=\"graf graf--p graf-after--p\" id=\"3f60\">We call this callback with <strong class=\"markup--strong markup--p-strong\">this.resolve</strong> and <strong class=\"markup--strong markup--p-strong\">this.reject</strong> as arguments.</p><p class=\"graf graf--p graf-after--p\" id=\"84c9\">Note that normally we would have bound <strong class=\"markup--strong markup--p-strong\">this.resolve</strong> and <strong class=\"markup--strong markup--p-strong\">this.reject</strong> to <strong class=\"markup--strong markup--p-strong\">this</strong>, but here we have used the class arrow method instead.</p><p class=\"graf graf--p graf-after--h4\" id=\"930b\">Now we have to set the result. Please remember that we must handle the result correctly, which means that, should it return a promise, we must resolve it first.</p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"8965\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of setResult</figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"eed5\">First, we check if the state is not <strong class=\"markup--strong markup--p-strong\">pending</strong> &mdash; if it is, then the promise is already settled and we can&rsquo;t assign any new value to it.</p><p class=\"graf graf--p graf-after--p\" id=\"3dc1\">Then we need to check if a value is a <strong class=\"markup--strong markup--p-strong\">thenable</strong>. To put it simply, a <strong class=\"markup--strong markup--p-strong\">thenable</strong> is an object with <strong class=\"markup--strong markup--p-strong\">then</strong> as a method.</p><p class=\"graf graf--p graf-after--p\" id=\"f875\">By convention, a <strong class=\"markup--strong markup--p-strong\">thenable</strong> should behave like a promise. So in order to get the result, we will call <strong class=\"markup--strong markup--p-strong\">then</strong> and pass as arguments <strong class=\"markup--strong markup--p-strong\">this.resolve</strong> and <strong class=\"markup--strong markup--p-strong\">this.reject</strong>.</p><p class=\"graf graf--p graf-after--p\" id=\"20a5\">Once the <strong class=\"markup--strong markup--p-strong\">thenable</strong> settles, it will call one of our methods and give us the expected non-promise value.</p><p class=\"graf graf--p graf-after--p\" id=\"f6e9\">So now we have to check if an object is a <strong class=\"markup--strong markup--p-strong\">thenable</strong>.</p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"1dc5\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">isThenable</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"9ecb\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">isThenable</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"dcea\">It is important to realize that our promise will never be synchronous, even if the code inside the <strong class=\"markup--strong markup--p-strong\">callback</strong> is.</p><p class=\"graf graf--p graf-after--p\" id=\"fd1a\">We are going to delay the execution until the next iteration of the event loop by using <strong class=\"markup--strong markup--p-strong\">setTimeout</strong>.</p><p class=\"graf graf--p graf-after--p\" id=\"162b\">Now the only thing left to do is to set our value and status and then execute the registered handlers.</p><figure class=\"graf graf--figure graf--iframe graf-after--h4\" id=\"bfe6\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">executeHandlers</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"e178\">Again, make sure the state is not <strong class=\"markup--strong markup--p-strong\">pending</strong>.</p><p class=\"graf graf--p graf-after--p\" id=\"0c61\">The state of the promise dictates which function we are going to use.</p><p class=\"graf graf--p graf-after--p\" id=\"3ee7\">If it&rsquo;s <strong class=\"markup--strong markup--p-strong\">resolved</strong>, we should execute <strong class=\"markup--strong markup--p-strong\">onSuccess</strong>, otherwise &mdash; <strong class=\"markup--strong markup--p-strong\">onFail</strong>.</p><p class=\"graf graf--p graf-after--p\" id=\"c089\">Let&rsquo;s now clear our array of handlers just to be safe and not to execute anything accidentally in the future. A handler can be attached and executed later anyways.</p><p class=\"graf graf--p graf-after--p\" id=\"32f4\">And that&rsquo;s what we must discuss next: a way to attach our handler.</p><figure class=\"graf graf--figure graf--iframe graf-after--h4\" id=\"030a\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">attachHandler</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"85b2\">It really is as simple as it seems. We just add a handler to our handlers array and execute it. That&rsquo;s it.</p><p class=\"graf graf--p graf-after--p\" id=\"61c6\">Now, to put it all together we need to implement the <strong class=\"markup--strong markup--p-strong\">then</strong> method.</p><figure class=\"graf graf--figure graf--iframe graf-after--h4\" id=\"5c44\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">then</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"4e10\">In <strong class=\"markup--strong markup--p-strong\">then,</strong> we return a promise, and in the <strong class=\"markup--strong markup--p-strong\">callback</strong> we attach a handler that is then used to wait for the current promise to be settled.</p><p class=\"graf graf--p graf-after--p\" id=\"1395\">When that happens, either handler&rsquo;s <strong class=\"markup--strong markup--p-strong\">onSuccess</strong> or <strong class=\"markup--strong markup--p-strong\">onFail</strong> will be executed and we will proceed accordingly.</p><p class=\"graf graf--p graf-after--p\" id=\"373c\">One thing to remember here is that neither of the handlers passed to <strong class=\"markup--strong markup--p-strong\">then</strong> is required. It is important, however, that we don&rsquo;t try to execute something that might be <strong class=\"markup--strong markup--p-strong\">undefined</strong>.</p><p class=\"graf graf--p graf-after--p\" id=\"3f26\">Also, in <strong class=\"markup--strong markup--p-strong\">onFail</strong> when the handler is passed, we actually resolve the returned promise, because the error has been handled.</p><p class=\"graf graf--p graf-after--h4\" id=\"248e\"><strong class=\"markup--strong markup--p-strong\">Catch</strong> is actually just an abstraction over the <strong class=\"markup--strong markup--p-strong\">then</strong> method.</p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"6277\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">catch</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"a870\">That&rsquo;s it.</p><p class=\"graf graf--p graf-after--h4\" id=\"afa3\"><strong class=\"markup--strong markup--p-strong\">Finally</strong> is also just an abstraction over doing <strong class=\"markup--strong markup--p-strong\">then</strong>(<strong class=\"markup--strong markup--p-strong\">finallyCb</strong>, <strong class=\"markup--strong markup--p-strong\">finallyCb</strong>), because it doesn&rsquo;t really care about the result of the promise.</p><p class=\"graf graf--p graf-after--p\" id=\"dab8\">Actually, it also preserves the result of the previous promise and returns it. So whatever is being returned by the <strong class=\"markup--strong markup--p-strong\">finallyCb</strong> doesn&rsquo;t really matter.</p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"c008\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">finally</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"bb91\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">finally</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--h4\" id=\"e6a2\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">toString</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"e030\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">toString</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"b813\">It will just return a string <code class=\"markup--code markup--p-code\">[object PQ]</code>.</p><p class=\"graf graf--p graf-after--p\" id=\"bf21\">Having implemented the core of our promises, we can now implement some of the previously mentioned Bluebird methods, which will make operating on promises easier for us.</p><p class=\"graf graf--p graf-after--h4\" id=\"e4b7\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.resolve.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"a275\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.resolve</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"5ab5\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.resolve</em></figcaption></figure><p class=\"graf graf--p graf-after--h4\" id=\"aa11\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.reject.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"18aa\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.reject</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"ec04\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.reject</em></figcaption></figure><p class=\"graf graf--p graf-after--h4\" id=\"1912\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.all.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"29e2\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.all</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"0249\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.all</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"2de9\">I believe the implementation is pretty straightforward.</p><p class=\"graf graf--p graf-after--p\" id=\"be05\">Starting at <strong class=\"markup--strong markup--p-strong\">collection.length,</strong> we count down with each <strong class=\"markup--strong markup--p-strong\">tryResolve</strong> until we get to 0, which means that every item of the collection has been resolved. We then resolve the newly created collection.</p><p class=\"graf graf--p graf-after--h4\" id=\"1208\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.any.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"c742\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.any</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"daba\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.any</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"9b7d\">We simply wait for the first value to resolve and return it in a promise.</p><p class=\"graf graf--p graf-after--h4\" id=\"46dc\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.props.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"e3eb\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.props</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"b894\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.props</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"a63f\">We iterate over keys of the passed object, resolving every value. We then assign the values to the new object and resolve a promise with it.</p><p class=\"graf graf--p graf-after--h4\" id=\"93dc\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/spread.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"9396\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.prototype.spread</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"deee\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.prototype.spread</em></figcaption></figure><p class=\"graf graf--p graf-after--h4\" id=\"3eb2\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/delay.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"f6de\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.delay</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"6dd4\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.delay</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"0d69\">By using <strong class=\"markup--strong markup--p-strong\">setTimeout,</strong> we simply delay the execution of the <strong class=\"markup--strong markup--p-strong\">resolve</strong> function by the given number of milliseconds.</p><p class=\"graf graf--p graf-after--h4\" id=\"e1fe\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/timeout.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"37bd\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.prototype.timeout</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"7cc3\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.prototype.timeout</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"698e\">This one is a bit tricky.</p><p class=\"graf graf--p graf-after--p\" id=\"2c6a\">If the <strong class=\"markup--strong markup--p-strong\">setTimeout</strong> executes faster than <strong class=\"markup--strong markup--p-strong\">then</strong> in our promise, it will reject the promise with our special error.</p><p class=\"graf graf--p graf-after--h4\" id=\"033a\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.promisify.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"0ba0\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.promisify</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"465b\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.promisify</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"f905\">We apply to the function all the passed arguments, plus &mdash; as the last one &mdash; we give the error-first <strong class=\"markup--strong markup--p-strong\">callback</strong>.</p><p class=\"graf graf--p graf-after--h4\" id=\"3efa\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://bluebirdjs.com/docs/api/promise.promisifyall.html\">How it should work.</a></p><figure class=\"graf graf--figure graf--iframe graf-after--p\" id=\"4506\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The tests of <em class=\"markup--em markup--figure-em\">Promise.promisifyAll</em></figcaption></figure><figure class=\"graf graf--figure graf--iframe graf-after--figure\" id=\"60f0\"><div class=\"aspectRatioPlaceholder is-locked\"><br></div><figcaption class=\"imageCaption\">The code of <em class=\"markup--em markup--figure-em\">Promise.promisifyAll</em></figcaption></figure><p class=\"graf graf--p graf-after--figure\" id=\"7c70\">We iterate over the keys of the object and <strong class=\"markup--strong markup--p-strong\">promisify</strong> its methods and add to each name of the method word <strong class=\"markup--strong markup--p-strong\">Async</strong>.</p><p class=\"graf graf--p graf-after--h3\" id=\"e1cf\">Presented here were but a few amongst all of the Bluebird API methods, so I strongly encourage you to explore, play around with, and try implementing the rest of them.</p><p class=\"graf graf--p graf-after--p\" id=\"168f\">It might seem hard at first but don&rsquo;t get discouraged &mdash; it would be worthless if it were it easy.</p><p class=\"graf graf--p graf-after--p\" id=\"b413\">Thank you very much for reading! I hope you found this article informative and that it helped you get a grasp of the concept of promises, and that from now on you will feel more comfortable using them or simply writing asynchronous code.</p><p class=\"graf graf--p graf-after--p\" id=\"a399\">If you have any questions or comments, feel free to put them in the comment section below or send me a <a class=\"markup--anchor markup--p-anchor\" href=\"https://www.mcieslar.com/contact\">message</a>.</p><p class=\"graf graf--p graf-after--p\" id=\"c07c\">Check out my <a class=\"markup--anchor markup--p-anchor\" href=\"https://www.maciejcieslar.com/about/\">social media</a>!</p><p class=\"graf graf--p graf-after--p graf--trailing\" id=\"aea6\"><a class=\"markup--anchor markup--p-anchor\" href=\"http://eepurl.com/dAKhxb\">Join my newsletter</a>!</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf--leading graf--trailing\" id=\"8293\"><em class=\"markup--em markup--p-em\">Originally published at&nbsp;</em><a class=\"markup--anchor markup--p-anchor\" href=\"https://www.mcieslar.com/implementing-promises-in-javascript\"><em class=\"markup--em markup--p-em\">www.mcieslar.com</em></a><em class=\"markup--em markup--p-em\">&nbsp;on August 4, 2018.</em></p></div></div></div></div></div>",
+            "lectureType" : "L",
+            "minute" : 1,
+            "name" : "Temas súper relevantes",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 421,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l8" : {
+            "buttonHidden" : true,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 8,
+            "lectureBlob" : "<ol><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">werwer</span></li><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">we</span></li><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">rw</span></li><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">er</span></li><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">wer</span></li><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">w</span></li><li style=\"text-align: center;\"><span style=\"color: rgb(41, 105, 176);\">er</span></li></ol>",
+            "lectureType" : "L",
+            "minute" : 12,
+            "name" : "werty",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 12,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l9" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 12,
+            "name" : "The New Fold",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 1859,
+              "index" : 1,
+              "lessonId" : 5106,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1859,
+                "explain" : "",
+                "id" : 6015,
+                "option" : "Is not the final product"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1859,
+                "explain" : "",
+                "id" : 6016,
+                "option" : "No"
+              }, {
+                "answer" : false,
+                "evaluationQuestionId" : 1859,
+                "explain" : "",
+                "id" : 6017,
+                "option" : "Yes"
+              } ],
+              "questionBlob" : "Why is only a demo display?",
+              "questionType" : "OM",
+              "right" : true,
+              "time" : 84,
+              "timeToAnswer" : 15
+            } ],
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "Dave Lee",
+              "channel" : "https://yt3.ggpht.com/a-/AAuE7mBXd-NrA1VmRpx4wAbX7Eoxe37C6oS5NZhJgA=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "G0inmw5q6kk",
+              "duration" : 213,
+              "id" : 4071,
+              "name" : "The NEW Folding Flip Phone",
+              "thumbnail" : "https://i.ytimg.com/vi/G0inmw5q6kk/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          }
+        },
+        "name" : "Introducción",
+        "showLeccion" : true,
+        "startDate" : "2019-03-19T07:00:00.000Z"
+      },
+      "m2" : {
+        "description" : "Módulo dos",
+        "endDate" : "2019-04-06T07:00:00.000Z",
+        "index" : "2",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "name" : "Video cool",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "ARTOSKETCH",
+              "channel" : "https://yt3.ggpht.com/a-/AAuE7mCtxiQ_ao_Eha3OlgSM9f4Gy1C32LYQX50xqg=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "p1dOWM1q-Ro",
+              "duration" : 855,
+              "id" : 3683,
+              "name" : "5 DISTINTOS TIPOS DE CIMENTACION * Proceso constructivo y características *",
+              "thumbnail" : "https://i.ytimg.com/vi/p1dOWM1q-Ro/sddefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l2" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 2,
+            "name" : "Hola maigos",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "DesignCourse",
+              "channel" : "https://yt3.ggpht.com/a-/AAuE7mA5RgGBnG3S_UyFytngidchIwqlE_uV5cbnWQ=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "A1-pyF75Ro4",
+              "duration" : 563,
+              "id" : 3801,
+              "name" : "9 FREE Illustration Resources for your Next Web Design Project",
+              "thumbnail" : "https://i.ytimg.com/vi/A1-pyF75Ro4/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l3" : {
+            "buttonHidden" : true,
+            "description" : "<p>Hola mundo</p>",
+            "evaluationLimit" : 4,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 3,
+            "instruction" : "<p>Hello</p>",
+            "minute" : 15,
+            "name" : "Hola",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "questionToAttempt" : 2,
+            "questions" : [ {
+              "hasOptions" : true,
+              "id" : 1454,
+              "index" : 1,
+              "lessonId" : 4537,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1454,
+                "explain" : "Holaaaaaaaaaaaaaaaaa alsdk asldkalskd",
+                "id" : 4450,
+                "option" : "HOLO"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1454,
+                "explain" : "JIJIJIJI",
+                "id" : 4451,
+                "option" : "Risa"
+              } ],
+              "questionBlob" : "asjd laksjdlkasjd lkajsdlkas jdlkasjdlka sjdlk",
+              "questionType" : "relacionar",
+              "right" : true
+            }, {
+              "hasOptions" : true,
+              "id" : 1455,
+              "index" : 2,
+              "lessonId" : 4537,
+              "options" : [ {
+                "answer" : true,
+                "evaluationQuestionId" : 1455,
+                "explain" : "a asd jalksjd laksjdlaks djalksjd lkasjdlaksjdl",
+                "id" : 4452,
+                "option" : "a"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1455,
+                "explain" : "b asda sdas dasd asdasdas dasdas\ndasd\nas\nda\nsdasd",
+                "id" : 4453,
+                "option" : "b"
+              }, {
+                "answer" : true,
+                "evaluationQuestionId" : 1455,
+                "explain" : "cas dasd\nas\nd \nasd\nas\nd",
+                "id" : 4454,
+                "option" : "c"
+              } ],
+              "questionBlob" : "2",
+              "questionType" : "relacionar",
+              "right" : true
+            } ],
+            "saved" : true,
+            "time" : 15,
+            "type" : "E",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l4" : {
+            "buttonHidden" : true,
+            "hour" : 6,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 4,
+            "lectureBlob" : "<div class=\"lectureBlob\" style=\"width: 100%; text-align: justify;\"><h1 style=\"margin-bottom: 5px !important;\">A guide to hosting static websites using&nbsp;NGINX</h1><h3 style=\"opacity: .6; font-size: 20px !important; margin-bottom: 25px !important;\"><a class=\"link u-baseColor--link avatar\" href=\"https://medium.com/@jgefroh?source=post_header_lockup\"><img src=\"https://cdn-images-1.medium.com/fit/c/150/150/1*Uxn7D3jALNZyU4teQv5gUg.jpeg\" class=\"avatar-image u-size50x50 fr-fic fr-dii fr-rounded\" alt=\"Go to the profile of Joseph Gefroh\" style=\"width: 3.09%;\"></a>Learn how to host a static website using a VM and NGINX!</h3><div><div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><figure class=\"graf graf--figure graf--leading\" id=\"b99c\"><img class=\"progressiveMedia-noscript js-progressiveMedia-inner fr-fic fr-dii\" src=\"https://cdn-images-1.medium.com/max/2400/1*m_EbWDxUUjvHMesln9MzkA.jpeg\"></figure><div class=\"uiScale uiScale-ui--regular uiScale-caption--regular u-flexCenter u-marginVertical24 u-fontSize15 js-postMetaLockup\"><div class=\"u-flex1 u-paddingLeft15 u-overflowHidden\"><br></div></div><p class=\"graf graf--p graf-after--h4\" id=\"df54\"><a class=\"markup--anchor markup--p-anchor\" href=\"https://www.nginx.com/\">NGINX</a> is a very powerful web server. You can do a ton of things with it, such as setting up reverse proxies or load balancing. It can also be used to host your static website.</p><p class=\"graf graf--p graf-after--p graf--trailing\" id=\"560b\">Now, keep in mind that there are many options when it comes to hosting static websites nowdays &mdash; Github pages, any number of hosting providers, Amazon S3 or Cloudfront, Cloudflare, etc. This is just one option among many.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf--leading graf--trailing\" id=\"b569\">Like this article? Add me on <a class=\"markup--anchor markup--p-anchor\" href=\"https://www.linkedin.com/in/jgefroh/\">LinkedIn</a>!</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf--leading\" id=\"8547\"><strong class=\"markup--strong markup--p-strong\">This guide assumes some things:</strong></p><ul class=\"postList\"><li class=\"graf graf--li graf-after--p\" id=\"8e4e\">You&rsquo;re <a class=\"markup--anchor markup--li-anchor\" href=\"https://medium.com/@jgefroh/a-beginners-guide-to-linux-command-line-56a8004e2471\">comfortable using Linux</a>.</li><li class=\"graf graf--li graf-after--li\" id=\"98e2\">You&rsquo;re trying to host a basic static website on a VM.</li><li class=\"graf graf--li graf-after--li graf--trailing\" id=\"46c9\">You don&rsquo;t know how to use NGINX.</li></ul></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf-after--h3\" id=\"e9a0\">You&rsquo;ll need shell access to follow this guide. I recommend a $5/month droplet from <a class=\"markup--anchor markup--p-anchor\" href=\"https://www.digitalocean.com/\">DigitalOcean</a>, but it doesn&rsquo;t really matter where it is.</p><p class=\"graf graf--p graf-after--h3\" id=\"f5ae\">Your domain name needs to point to your new server. Create an A record in your hosting provider&rsquo;s DNS settings, pointing your domain name (eg. <code class=\"markup--code markup--p-code\">jgefroh.com</code>) to the server IP address (eg. <code class=\"markup--code markup--p-code\">127.0.0.1</code>). If you don&rsquo;t want to wait for the DNS to propagate, edit your <code class=\"markup--code markup--p-code\">/etc/hosts</code> file to point your domain to the right IP address.</p><p class=\"graf graf--p graf-after--p\" id=\"c677\">For the purposes of this guide, we&rsquo;ll use the domain name <code class=\"markup--code markup--p-code\">jgefroh.com</code> and the IP address <code class=\"markup--code markup--p-code\">198.199.103.100</code> as examples. Switch out with your actual domain name and IP address as needed when you encounter these.</p><p class=\"graf graf--p graf-after--h3\" id=\"1d7f\"><code class=\"markup--code markup--p-code\">ssh</code> into your server and use your favorite package manager to install NGINX. If using Ubuntu, you can run:</p><pre class=\"graf graf--pre graf-after--p\" id=\"f75e\">sudo apt-get update\nsudo apt-get install nginx</pre><p class=\"graf graf--p graf-after--h3\" id=\"74b7\">You can&rsquo;t deliver your website if the server doesn&rsquo;t have your files, so let&rsquo;s add your files to the server.</p><p class=\"graf graf--p graf-after--p\" id=\"897a\">By default, NGINX expects your static files to be in a specific directory (which varies). You can override this in the configuration. For now, let&rsquo;s assume that you&rsquo;ll be putting your website&rsquo;s static files in the <code class=\"markup--code markup--p-code\">/var/www/</code> directory.</p><p class=\"graf graf--p graf-after--p\" id=\"fbc1\">Create a directory in <code class=\"markup--code markup--p-code\">/var/www/</code> called <code class=\"markup--code markup--p-code\">jgefroh.com</code>. This is where your static website&rsquo;s files will go.</p><p class=\"graf graf--p graf-after--p\" id=\"3f24\">Copy your website&rsquo;s static files into that folder. You can use the <code class=\"markup--code markup--p-code\">scp</code> command from your local machine. <code class=\"markup--code markup--p-code\">cd</code> into your website&rsquo;s directory and run:</p><pre class=\"graf graf--pre graf-after--p\" id=\"c2cc\">scp -r * root@198.199.103.100:/var/www/jgefroh.com</pre><p class=\"graf graf--p graf-after--pre\" id=\"bee5\">Be sure to replace the <code class=\"markup--code markup--p-code\">198.199.103.100</code> and <code class=\"markup--code markup--p-code\">jgefroh.com</code> with values appropriate to you.</p><p class=\"graf graf--p graf-after--p\" id=\"e528\">If you don&rsquo;t have a website just yet, you can create a file called <code class=\"markup--code markup--p-code\">index.html</code> with some &ldquo;Coming soon&rdquo; text as a placeholder.</p><p class=\"graf graf--p graf-after--h3\" id=\"b721\">You&rsquo;ll need to tell NGINX about your website and how to serve it.</p><p class=\"graf graf--p graf-after--p\" id=\"a6eb\"><code class=\"markup--code markup--p-code\">cd</code> into <code class=\"markup--code markup--p-code\">/etc/nginx/</code>. This is where the NGINX configuration files are located.</p><p class=\"graf graf--p graf-after--p\" id=\"4c8d\">The two directories we are interested are <code class=\"markup--code markup--p-code\">sites-available</code> and <code class=\"markup--code markup--p-code\">sites-enabled</code>.</p><ul class=\"postList\"><li class=\"graf graf--li graf-after--p\" id=\"3823\"><code class=\"markup--code markup--li-code\">sites-available</code> contains individual configuration files for all of your possible static websites.</li><li class=\"graf graf--li graf-after--li\" id=\"3e92\"><code class=\"markup--code markup--li-code\">sites-enabled</code> contains links to the configuration files that NGINX will actually read and run.</li></ul><p class=\"graf graf--p graf-after--li\" id=\"60e3\">What we&rsquo;re going to do is create a configuration file in <code class=\"markup--code markup--p-code\">sites-available</code>, and then create a symbolic link (a pointer) to that file in <code class=\"markup--code markup--p-code\">sites-enabled</code> to actually tell NGINX to run it.</p><p class=\"graf graf--p graf-after--p\" id=\"8893\">Create a file called<code class=\"markup--code markup--p-code\">jgefroh.com</code> in the <code class=\"markup--code markup--p-code\">sites-available</code> directory and add the following text to it:</p><pre class=\"graf graf--pre graf-after--p\" id=\"1e3e\">server {\n  listen 80 default_server;\n  listen [::]:80 default_server;</pre><pre class=\"graf graf--pre graf-after--pre\" id=\"b7c2\">  root /var/www/jgefroh.com;</pre><pre class=\"graf graf--pre graf-after--pre\" id=\"87ce\">  index index.html;</pre><pre class=\"graf graf--pre graf-after--pre\" id=\"ad35\">  server_name jgefroh.com www.jgefroh.com;</pre><pre class=\"graf graf--pre graf-after--pre\" id=\"586e\">  location / {\n    try_files $uri $uri/ =404;\n  }\n}</pre><p class=\"graf graf--p graf-after--pre\" id=\"4189\">Be sure to replace <code class=\"markup--code markup--p-code\">jgefroh.com</code> with your actual domain name.</p><p class=\"graf graf--p graf-after--p\" id=\"2224\">This file tells NGINX several things:</p><ul class=\"postList\"><li class=\"graf graf--li graf-after--p\" id=\"f30b\">Deliver files from the folder <code class=\"markup--code markup--li-code\">/var/www/jgefroh.com</code></li><li class=\"graf graf--li graf-after--li\" id=\"7b12\">The main index page is called <code class=\"markup--code markup--li-code\">index.html</code>.</li><li class=\"graf graf--li graf-after--li\" id=\"d600\">Requests that are requesting <code class=\"markup--code markup--li-code\">jgefroh.com</code> should be served by this <code class=\"markup--code markup--li-code\">server</code> block.</li><li class=\"graf graf--li graf-after--li\" id=\"74cb\">Note the <code class=\"markup--code markup--li-code\">www</code> is also listed separately. This tells nginx to also route requests starting with <code class=\"markup--code markup--li-code\">www</code> to the site. There&rsquo;s actually nothing special about the <code class=\"markup--code markup--li-code\">www</code> &mdash; it&rsquo;s treated like any other subdomain.</li></ul><p class=\"graf graf--p graf-after--li\" id=\"8c29\">Now that the file is created, we&rsquo;ll add it to the <code class=\"markup--code markup--p-code\">sites-enabled</code> folder to tell NGINX to enable it. The syntax is as follows:</p><pre class=\"graf graf--pre graf-after--p\" id=\"c445\">ln -s &lt;SOURCE_FILE&gt; &lt;DESTINATION_FILE&gt;</pre><p class=\"graf graf--p graf-after--pre\" id=\"8f54\">The actual syntax will look like:</p><pre class=\"graf graf--pre graf-after--p\" id=\"44c5\">ln -s /etc/nginx/sites-available/jgefroh.com /etc/nginx/sites-enabled/jgefroh.com</pre><p class=\"graf graf--p graf-after--pre\" id=\"641a\">Now, if you were to restart NGINX you should see your site!</p><pre class=\"graf graf--pre graf-after--p\" id=\"37e3\">sudo systemctl restart nginx</pre><p class=\"graf graf--p graf-after--pre graf--trailing\" id=\"1f7f\">If it gives you an error, there&rsquo;s likely a syntax error. You can stop here if you&rsquo;d like, but you can also continue for some more optimization.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf-after--h3\" id=\"34e3\">With the advent of free SSL certs from <a class=\"markup--anchor markup--p-anchor\" href=\"https://letsencrypt.org/\">LetsEncrypt</a>, there&rsquo;s really no reason why you shouldn&rsquo;t have HTTPS enabled for your website. In addition to the improved security, there&rsquo;s significant performance opportunities it allows via HTTP/2 (browser vendors require encryption to enable this), you&rsquo;ll increase user confidence, and you&rsquo;ll even rank higher in SEO.</p><p class=\"graf graf--p graf-after--h4\" id=\"158a\">There&rsquo;s multiple ways to do this. You can buy a single-domain certification or a wildcard certification if you plan on securing subdomains.</p><p class=\"graf graf--p graf-after--p\" id=\"62c4\">You can also go the free route via <a class=\"markup--anchor markup--p-anchor\" href=\"https://letsencrypt.org/\">LetsEncrypt</a>:</p><pre class=\"graf graf--pre graf-after--p\" id=\"a84f\">sudo apt-get install software-properties-common\nsudo add-apt-repository ppa:certbot/certbot\nsudo apt-get update\nsudo apt-get install python-certbot-nginx\nsudo certbot --nginx certonly</pre><p class=\"graf graf--p graf-after--pre\" id=\"76e4\">Follow the instructions. This will install certs in <code class=\"markup--code markup--p-code\">/etc/letsencrypt/live/jgefroh.com/</code>;</p><p class=\"graf graf--p graf-after--p\" id=\"d7ee\"><strong class=\"markup--strong markup--p-strong\">Enable auto-renewal for certificates:</strong></p><p class=\"graf graf--p graf-after--p\" id=\"e142\">Edit the <code class=\"markup--code markup--p-code\">crontab</code> and create a CRON job to run the renewal command:</p><pre class=\"graf graf--pre graf-after--p\" id=\"8b99\">sudo crontab -e</pre><p class=\"graf graf--p graf-after--pre\" id=\"d472\">Add the following line:</p><pre class=\"graf graf--pre graf-after--p\" id=\"5f2f\">17 7 * * * certbot renew --post-hook &quot;systemctl reload nginx&quot;</pre><p class=\"graf graf--p graf-after--h4\" id=\"0f9c\">Once you&rsquo;ve acquired your SSL certs, you&rsquo;ll need to let NGINX know to use them.</p><p class=\"graf graf--p graf-after--p\" id=\"9c38\">Let&rsquo;s modify the configuration file we created for <code class=\"markup--code markup--p-code\">jgefroh.com</code> to use SSL.</p><p class=\"graf graf--p graf-after--p\" id=\"4d7f\">Inside the <code class=\"markup--code markup--p-code\">server</code> block we created, add the following text, changing the paths to point to wherever the certificate file and the key file are stored (usually store in the <code class=\"markup--code markup--p-code\">/etc/nginx/certs/</code> directory):</p><pre class=\"graf graf--pre graf-after--p\" id=\"9594\">server {\n   # ...previous content here\n   ssl on;\n   ssl_certificate /etc/letsencrypt/live/jgefroh.com/fullchain.pem;\n   ssl_certificate_key /etc/letsencrypt/live/jgefroh.com/privkey.pem;</pre><p class=\"graf graf--p graf-after--pre\" id=\"54eb\">This tells nginx to enable SSL and use the specified key and certificate for that server.</p><p class=\"graf graf--p graf-after--p\" id=\"0b27\">We also now face an issue: Port 80, what we&rsquo;re currently listening to, is for HTTP connections. SSL connections use port 443. The solution? Change the port from 80 to 443.</p><pre class=\"graf graf--pre graf-after--p\" id=\"c01f\">server {\n   listen 443 default_server;\n   listen [::]:443 default_server;\n   #... all other content\n}</pre><p class=\"graf graf--p graf-after--pre\" id=\"ce74\">This however, breaks people going to the website without <code class=\"markup--code markup--p-code\">https://</code> explicitly in the URL. To fix this, we&rsquo;ll redirect HTTP requests to the HTTPS url. Add the following new server block after the HTTPS (443) server block:</p><pre class=\"graf graf--pre graf-after--p\" id=\"bf5c\">server {\n       listen 0.0.0.0:80;\n       server_name jgefroh.com <a class=\"markup--anchor markup--pre-anchor\" href=\"http://www.jgefroh.com/\">www.jgefroh.com</a>;\n       rewrite ^ <a class=\"markup--anchor markup--pre-anchor\" href=\"https:///$host$request_uri\">https://$host$request_uri</a>? permanent;\n}</pre><p class=\"graf graf--p graf-after--pre\" id=\"1e6e\">This will redirect all requests to <code class=\"markup--code markup--p-code\">jgefroh.com</code> and <code class=\"markup--code markup--p-code\">www.jgefroh.com</code> on port 80 to the HTTPS URL.</p><p class=\"graf graf--p graf-after--p\" id=\"e23d\">Now, restart NGINX&hellip;</p><pre class=\"graf graf--pre graf-after--p\" id=\"ed45\">sudo systemctl restart nginx</pre><p class=\"graf graf--p graf-after--pre\" id=\"1f2e\">&hellip;and you should have SSL enabled!</p><p class=\"graf graf--p graf-after--p\" id=\"a648\">Test it by going to the four variations of your URL, eg.:</p><ul class=\"postList\"><li class=\"graf graf--li graf-after--p\" id=\"a8b5\">http://jgefroh.com</li><li class=\"graf graf--li graf-after--li\" id=\"0e02\">https://jgefroh.com</li><li class=\"graf graf--li graf-after--li\" id=\"1f59\">http://www.jgefroh.com</li><li class=\"graf graf--li graf-after--li\" id=\"76bc\">https://www.jgefroh.com</li></ul><p class=\"graf graf--p graf-after--li graf--trailing\" id=\"34a6\">They should all work and be secured via HTTPS.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf-after--h4\" id=\"5efe\">HTTP/2 allows browsers to request files in parallel, greatly improving the speed of delivery. You&rsquo;ll need HTTPS enabled. Edit your browser configuration file, adding <code class=\"markup--code markup--p-code\">http2</code> to the <code class=\"markup--code markup--p-code\">listen</code> directive, then restart NGINX:</p><pre class=\"graf graf--pre graf-after--p\" id=\"162b\">server {\n   listen 443 http2 default_server;\n   listen [::]:443 http2 default_server;\n   #... all other content\n}</pre><p class=\"graf graf--p graf-after--h4\" id=\"7180\">gzip compression can greatly decrease the size of files during transmission (sometimes by over 80%).</p><p class=\"graf graf--p graf-after--p\" id=\"76ef\">Add the following to your <code class=\"markup--code markup--p-code\">server</code> block:</p><pre class=\"graf graf--pre graf-after--p\" id=\"8c2c\">server {\n   #...previous content\n   gzip on;\n   gzip_types application/javascript image/* text/css;\n   gunzip on;\n}</pre><p class=\"graf graf--p graf-after--pre\" id=\"9e37\">This will ensure that javascript files, images, and CSS files are always compressed.</p><blockquote class=\"graf graf--blockquote graf-after--p\" id=\"8650\"><strong class=\"markup--strong markup--blockquote-strong\">Warning:</strong></blockquote><blockquote class=\"graf graf--blockquote graf-after--blockquote\" id=\"1243\">A <a class=\"markup--anchor markup--blockquote-anchor\" href=\"https://en.wikipedia.org/wiki/CRIME\">security vulnerability</a> exists when you enable gzip compression in conjunction with HTTPS that allows attackers to decrypt data. For static websites that don&rsquo;t serve users sensitive data, this is less of an issue, but for any site serving sensitive information you should disable compression for those resources.</blockquote><p class=\"graf graf--p graf-after--h4\" id=\"c6c5\">Some files don&rsquo;t ever change, or change rarely, so there&rsquo;s no need to have users re-download the latest version. You can set cache control headers to provide hints to browsers to let them know what files they shouldn&rsquo;t request again.</p><pre class=\"graf graf--pre graf-after--p\" id=\"a07c\">server {\n   #...after the location / block\n   location ~* \\.(jpg|jpeg|png|gif|ico)$ {\n       expires 30d;\n    }\n    location ~* \\.(css|js)$ {\n       expires 7d;\n    }\n}</pre><p class=\"graf graf--p graf-after--pre graf--trailing\" id=\"29ff\">Examine how frequently your various file types change, and then set them to expire at appropriate times. If&nbsp;<code class=\"markup--code markup--p-code\">.css</code> and&nbsp;<code class=\"markup--code markup--p-code\">.js</code> files change regularly, you should set the expiration to be shorter. If image files like&nbsp;<code class=\"markup--code markup--p-code\">.jpg</code> never change, you can set them to expire months from now.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf-after--h3\" id=\"1ca3\">If you have subdomains, chances are you don&rsquo;t want to have to route every subdomain to the right folder. It&rsquo;s a maintenance pain. Instead, create a wildcard server block for it, routing to the folder that matches the name:</p><pre class=\"graf graf--pre graf-after--p\" id=\"3db8\">server {\n       server_name ~^(www\\.)(?&lt;subdomain&gt;.+).jgefroh.com$ ;\n       root /var/www/jgefroh.com/$subdomain;\n}\nserver {\n        server_name ~^(?&lt;subdomain&gt;.+).jgefroh.com$ ;\n        root /var/www/jgefroh.com/$subdomain;\n}</pre><p class=\"graf graf--p graf-after--pre graf--trailing\" id=\"56eb\">Restart nginx, and you&rsquo;ll automatically route subdomains to the same-named subfolder.</p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf--leading graf--trailing\" id=\"eae5\"><em class=\"markup--em markup--p-em\">Did you find this story helpful? Please&nbsp;</em><strong class=\"markup--strong markup--p-strong\"><em class=\"markup--em markup--p-em\">Clap&nbsp;</em></strong><em class=\"markup--em markup--p-em\">to show your support!<br>If you didn&rsquo;t find it helpful, please let me know why with a </em><strong class=\"markup--strong markup--p-strong\"><em class=\"markup--em markup--p-em\">Comment</em></strong><em class=\"markup--em markup--p-em\">!</em></p></div></div><div class=\"section-content\"><div class=\"section-inner sectionLayout--insetColumn\"><p class=\"graf graf--p graf--leading graf--trailing\" id=\"9d95\">Also available on my <a class=\"markup--anchor markup--p-anchor\" href=\"https://jgefroh.com/@jgefroh/a-guide-to-using-nginx-for-static-websites-d96a9d034940/\">website</a>.</p></div></div></div></div></div>",
+            "lectureType" : "L",
+            "minute" : 14,
+            "name" : "aswewrrt",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 374,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          },
+          "l5" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 5,
+            "name" : "How to spot a pyramid scheme",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "TED-Ed",
+              "channel" : "https://yt3.ggpht.com/a/AGF-l7_KYzscxJEPD222JCwLBSiMIDXi5wtsWc4Rww=s240-mo-c-c0xffffffff-rj-k-no",
+              "code" : "SBGfHk91Vrk",
+              "duration" : 302,
+              "id" : 4095,
+              "name" : "How to spot a pyramid scheme - Stacie Bosley",
+              "thumbnail" : "https://i.ytimg.com/vi/SBGfHk91Vrk/maxresdefault.jpg",
+              "type" : "YouTube"
+            },
+            "videoUploaded" : true
+          },
+          "l6" : {
+            "buttonHidden" : true,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 6,
+            "name" : "Prueba vimeo 1",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "type" : "V",
+            "typeAdded" : true,
+            "video" : {
+              "author" : "David Gil",
+              "channel" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+              "code" : "334536686",
+              "id" : 4111,
+              "name" : "foto.mp4",
+              "type" : "Vimeo"
+            },
+            "videoUploaded" : true
+          }
+        },
+        "name" : "Desglose PRO",
+        "showLeccion" : true,
+        "startDate" : "2019-03-27T07:00:00.000Z"
+      },
+      "m3" : {
+        "description" : "Módulo 3",
+        "endDate" : "2019-04-09T06:00:00.000Z",
+        "index" : "3",
+        "lessons" : {
+          "l1" : {
+            "buttonHidden" : true,
+            "hour" : 0,
+            "htmlSaved" : true,
+            "htmlUploaded" : true,
+            "index" : 1,
+            "lectureBlob" : "<div class=\"lectureBlob\" style=\"width: 100%; text-align: justify;\"><h1 style=\"margin-bottom: 5px !important;\">Welcome to the mean stack</h1><h3 style=\"opacity: .6; font-size: 20px !important; margin-bottom: 25px !important;\">The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications</h3><p class=\"wrapper\"><br></p><header><img class=\"logo fr-fic fr-dii fr-rounded fr-fil\" src=\"https://www.linnovate.net/sites/all/themes/linnovate/images/mean-picture.png\" alt=\"Logo\" style=\"width: 12.06%;\"><p>The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications</p><p class=\"view\"><a href=\"https://github.com/linnovate/mean\">View the Project on GitHub <small>linnovate/mean</small></a></p><a class=\"github-button\" href=\"https://github.com/linnovate/mean\">Star</a> <img class=\"ninja fr-fic fr-dii\" src=\"http://mean.io/assets/img/ninja.jpg\" style=\"width: 10.52%;\"></header><section><p>The mean stack is intended to provide a simple and fun starting point for cloud native fullstack javascript applications.<br>MEAN is a set of Open Source components that together, provide an end-to-end framework for building dynamic web applications; starting from the top (code running in the browser) to the bottom (database). The stack is made up of:</p><ul><li><strong>M</strong>ongoDB : Document database &ndash; used by your back-end application to store its data as JSON (JavaScript Object Notation) documents</li><li><strong>E</strong>xpress (sometimes referred to as Express.js): Back-end web application framework running on top of Node.js</li><li><strong>A</strong>ngular (formerly Angular.js): Front-end web app framework; runs your JavaScript code in the user&rsquo;s browser, allowing your application UI to be dynamic</li><li><strong>N</strong>ode.js : JavaScript runtime environment &ndash; lets you implement your application back-end in JavaScript</li></ul><h3 id=\"pre-requisites\">Pre-requisites</h3><h3 id=\"installation\">Installation</h3><div class=\"highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>git clone https://github.com/linnovate/mean\ncd mean\ncp .env.example .env\nnpm install\nnpm start (for development)\n</code></pre></div></div><h3 id=\"docker-based\">Docker based</h3><div class=\"highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>git clone https://github.com/linnovate/mean\ncd mean\ncp .env.example .env\ndocker-compose up -d\n</code></pre></div></div><ul><li>The MEAN name was coined by Valeri Karpov.</li><li>Initial concept and development was done by Amos Haviv and sponsered by Linnovate.</li><li>Inspired by the great work of Madhusudhan Srinivasa.</li></ul><p>This project is maintained by <a href=\"https://github.com/linnovate\">linnovate</a></p></section><p><br></p></div>",
+            "lectureType" : "L",
+            "minute" : 4,
+            "name" : "Lección de prueba",
+            "percentage" : 0,
+            "questionSaved" : true,
+            "saved" : true,
+            "time" : 4,
+            "type" : "L",
+            "typeAdded" : true,
+            "videoUploaded" : true
+          }
+        },
+        "name" : "Hipopotomonstrosesquipedaliofobia",
+        "showLeccion" : true,
+        "startDate" : "2019-04-06T07:00:00.000Z"
+      }
+    },
+    "name" : "Todología",
+    "objectives" : [ "Random1", "Random1", "Random1" ],
+    "requirements" : [ "Random1", "Random1", "Random1" ],
+    "route" : "courses[todologia]",
+    "skills" : [ "Random1", "Random1", "Random1" ],
+    "students" : {
+      "Ma4YtwN3tKdFnf0jgW0cpvZzAi43" : {
+        "firstName" : "David",
+        "imageUrl" : "https://s3-us-west-2.amazonaws.com/ulernit/images/79XWQ4WFNK.png",
+        "lastName" : "Giovanny",
+        "rating" : 5
+      }
+    },
+    "type" : "Online"
+  }
+}

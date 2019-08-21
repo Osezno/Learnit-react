@@ -1,0 +1,116 @@
+{
+  "bio" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vitae mi a lacus suscipit tristique vel at sapien. In at placerat nibh, a rhoncus lectus. Etiam mattis nibh nulla, quis viverra nibh posuere id. Mauris vulputate efficitur rhoncus. Quisque fringilla, lectus nec ultrices vulputate, diam odio sagittis orci, eu sagittis ante sapien faucibus magna.",
+  "bioBanner" : {
+    "path" : "https://png.pngtree.com/thumb_back/fw800/back_pic/00/01/88/65560ceffb360e4.jpg"
+  },
+  "content" : {
+    "abilities" : {
+      "excel" : {
+        "name" : "Microsoft Excel",
+        "score" : 60
+      },
+      "firebase" : {
+        "name" : "Firebase",
+        "score" : 65
+      },
+      "javascript" : {
+        "name" : "Javascript",
+        "score" : 85
+      },
+      "react" : {
+        "name" : "React",
+        "score" : 75
+      }
+    },
+    "articles" : {
+      "nodejs" : {
+        "name" : "NodeJS"
+      }
+    },
+    "competencies" : [ {
+      "name" : "Honestidad",
+      "score" : 350
+    }, {
+      "name" : "Liderazgo",
+      "score" : 110
+    }, {
+      "name" : "Negocios",
+      "score" : 230
+    }, {
+      "name" : "Diseño",
+      "score" : 300
+    }, {
+      "name" : "Desarrollo",
+      "score" : 180
+    }, {
+      "name" : "Recursos humanos",
+      "score" : 120
+    }, {
+      "name" : "Paciencia",
+      "score" : 150
+    }, {
+      "name" : "Emprendedurismo",
+      "score" : 216
+    } ],
+    "courses" : {
+      "javascript" : {
+        "progress" : 40
+      },
+      "nodejs" : {
+        "progress" : 0,
+        "rating" : 80
+      }
+    },
+    "history" : [ {
+      "id" : "nodejs",
+      "reference" : "courses",
+      "route" : "javascript.modules.m1.lessons.l1",
+      "timestamp" : 1560237563698,
+      "type" : "lesson"
+    }, null, {
+      "id" : "Programacion",
+      "reference" : "courses",
+      "route" : "todologia",
+      "timestamp" : 1560237520745,
+      "type" : "course"
+    } ],
+    "learningPaths" : {
+      "Programacion" : {
+        "name" : "Programacion"
+      }
+    },
+    "podcasts" : {
+      "garyvee" : {
+        "name" : "Gary Vee"
+      },
+      "name" : "test"
+    },
+    "saved" : [ {
+      "id" : "nodejs",
+      "reference" : "courses",
+      "route" : "javascript.modules.m1.lessons.l1",
+      "type" : "lesson"
+    }, {
+      "id" : "l2",
+      "reference" : "courses",
+      "route" : "nodejs.modules.m2.lessons.l1",
+      "type" : "lesson"
+    }, {
+      "id" : "Programacion",
+      "reference" : "courses",
+      "route" : "todologia",
+      "type" : "course"
+    } ]
+  },
+  "email" : "gerardomanllop@gmail.com",
+  "firstName" : "Gerardo",
+  "lastName" : "Manllo Puente",
+  "media" : {
+    "profilePictures" : [ {
+      "name" : "Guns N Roses",
+      "path" : "assets/img/user/guns.jpg"
+    } ]
+  },
+  "profileIndex" : 0,
+  "type" : "P"
+}

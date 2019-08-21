@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+
+  height: 23px;
+}
+
+.App-header {
+ background-color: #fff;
+ height: 10px;
+ padding: 20px;
+ color: black;
+}
+
+.belowHeaderImg{
+  width:100%;
+
+}
+.belowHeaderContainer{
+  width:100%;
+  max-height: 150px;
+  overflow: hidden;
+  position:relative;
+}
+.belowHeaderText{
+  position:absolute;
+  color:#fff;
+  font-size:30px;
+  top:20%;
+  left:15%;
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.iconHover {
+    font-size: 14px !important;
+    color: rgb(255, 255, 255) !important;
+    background: #4239cd !important;
+    border-radius: 10px !important;
+    margin-right: 3px;
+  }
+
+  .iconHover:hover {
+    background: rgb(0,0, 0) !important;
+
+  }
+
+  .cardTitle{
+    font-weight: 700!important;
+    font-size:15px !important;
+    color:#343e59;
+    margin-bottom: 15px !important;
+  }
+  .cardSubTitle{
+    font-size:10px  !important;
+    color:#343e59;
+    display: flex;
+  }
+
+  .MuiCardContent-root {
+    padding: 12px;
+  }
+  .MuiContainer-root {
+    padding-left: 8% !important;
+    padding-right: 8% !important;
+  }
+  .MuiToolbar-gutters {
+    padding-left: 8% !important;
+    padding-right: 8% !important;
+
+  }
+  .MuiLinearProgress-colorSecondary {
+    background-color: #d6d6d6 !important;
+  }
+  .MuiLinearProgress-barColorPrimary {
+      background-color: #f18363 !important;
+  }
+  .makeStyles-inputInput-4 {
+    width: 200px !important;
+  }
+  .makeStyles-inputInput-4:focus {
+    width: 230px !important;
+  }
+  .MuiTypography-body1 {
+    font-size: 12px !important;
+  }
+  .makeStyles-search-1 {
+
+    position: absolute !important;
+    left: 50% !important;
+    transform: translate(-50%)!important;
+  }
+  .MuiFormControl-root {
+    max-width: 135px;
+  }
+  label + .MuiInput-formControl {
+    margin-top: 6px;
+   }
+   .MuiInputBase-root {
+    background: #fff;
+   }
+   .MuiFormLabel-root {
+    z-index: 1;
+    color: rgba(0, 0, 0, 0.54);
+    padding: 4px;
+    font-size: 12px;
+    }
+    .MuiContainer-maxWidthMd {
+    max-width: none!important;
+    }
+    .visible{display:block !important;}
+    .hidden{display:none;}
+
+
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
